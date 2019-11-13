@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hello World</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+<title type="Journal">Theatre Research International</title>
+ vol. 44 | no. 1 |pp. 6–22 © International Federation for Theatre Research
+<title type="Article">
+  Remembering the Finnish Civil War: Embodied Empathy and Fellman Field
+</title>
+<bibl>
+  <author>Marja-Leena Parkkinen's</author>
+   comment on Fellman Field Facebook page, ‘Fellmanin pelto – 22 000 ihmisen elävä monumentti’,
+   28 April 2013, 12:21 p.m., at www.facebook.com/FellmaninPelto/?ref=br_rs, accessed 13 April 2018.
+Pearson, Mike, Site-Specific Performance (Basingstoke: Palgrave Macmillan, 2010), p. 141
+
+<bibl>
+  <persName type="artist">Salmi</persName>
+  (born 1968) is known for her many environmental artworks in urban milieux and also for such huge
+  eye-catching works as Road to Heaven (2011) and The Bottle Sea (2015), made of 300,000 swimming bottles.
+  She positions herself as a maker of political art, asking such questions as what art activism means to its
+  maker, and what drives an artist to make political art. See Oulun kaupunki, at
+ www.ouka.fi/oulu/kulttuuri-ja-kirjastot/ajankohtaista/-/asset_publisher/2fVr/content/kaisa-salmi-fellmanin-pelto/477502, accessed 5 November 2018. In July 2016 Salmi presented another participatory performance about the civil war: Veripelto (Field of Blood). ‘Veripelto muistutti väkivallan mielettömyydestä Jättömaalla: yhteisöperformanssi keräsi noin 300 osallistujaa’, Kouvolan Sanomat, 23 July, 2016, at https://kouvolansanomat.fi/uutiset/lahella/68569954-23e3-4e53-8cca-4bdbe9c93f3a, accessed 29 May 2018.
+
+4 The phenomenon of embodied empathy (sometimes referred to as kinaesthetic empathy) is supported by neuroscientific research, and the concept is used in the practice of psychotherapy and art therapy. We find corresponding features between these practices and Fellman Field; that is, an attempt to create a space for attachment with a ‘broader humanity’ through bodily simulation. Writing on embodied simulation, Vittorio Gallese suggests, ‘A common underlying functional mechanism … mediates our capacity to experientially share the meaning of actions, intentions, feelings, and emotions with others, thus grounding our identification with and connectedness to others.’ See Gallese, Vittorio, ‘Empathy, Embodied Simulation and the Brain: Commentary on Aragno and Zep/Hartmann’, Journal of the American Psychoanalytic Association, 56, 3 (2008), pp. 769–81CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar, here p. 773. See also, for example, Harris, David Alan, ‘Pathways to Embodied Empathy and Reconciliation after Atrocity: Former Boy Soldiers in a Dance/Movement Therapy Group in Sierra Leone’, Intervention, 5, 3 (2007), pp. 203–31CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar; and Sletvold, Jon, ‘Embodied Empathy in Psychotherapy: Demonstrated in Supervision, Body, Movement and Dance in Psychotherapy’ Body, Movement and Dance in Psychotherapy, 10, 2 (2015), pp. 82–93CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+5 Although we interpret these social-media discussions as expressions of participant experiences as well as micro-examples of the public debate surrounding the piece, we are aware of the limitations of online comments as indicators of audience response. Participants in Fellman Field have not been interviewed, nor have they been surveyed for the purpose of this article. The description of the performance is based on documentation, not participation.
+
+<bibl>
+  <author>
+    Meinander, Henrik, Gustaf Mannerheim Aristokraatti sarkatakissa
+  </author>
+  <publisher>
+     (Helsinki: Otava, 2017)
+   </publisher>
+   <citedrange>
+     , p. 111
+   </citedrange>
+ </bibl>
+
+<bibl>
+  <author>
+    Tepora, Tuomas and Roselius, Aapo, eds.,
+  </author>
+  <title> The Finnish Civil War 1918: History, Memory, Legacy
+  </title>
+  <publisher>
+    (Leiden: Brill Online, 2014)
+  </publisher>
+<citedrange>
+  , p. 1
+</citedrange>
+</bibl>
+
+Ibid., p. 1.
+
+Ibid., pp. 1–5.
+
+<bibl>
+  <author> Marko Tikka,
+  </author>
+  <title>
+     ‘Warfare and Terror in 1918’, in Tepora and Roselius, The Finnish Civil War 1918,
+   </title>
+   <citedrange>
+      pp. 90–118, here p. 113
+    </citedrange>
+    <bibl>
+
+Hennala was one of the largest and most infamous prison camps of the 1918 civil war.
+
+<bibl>
+  <author>
+    Hentilä, Seppo,
+  </author>
+  <title>
+     ‘From Independence to the End of the Continuation War 1917–1944’,
+    in Hentilä, Seppo, Jussila, Osmo and Nevakivi, Jukka,
+    From Grand Duchy to a Modern State: A Political History of Finland since 1809
+  </title>
+  <publisher>
+    (London: Hurst, 1999)
+  </publisher>
+  <citedrange>
+    , pp. 99–213, here p. 112
+  </citedrange>
+</bibl>
+
+13 Tepora and Roselius, The Finnish Civil War 1918, p. 5.
+
+14 Gluhovic, Milija, Performing European Memories: Trauma, Ethics, Politics (Basingstoke: Palgrave Macmillan, 2013), p. 10CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+15 ‘Tuhannet tahtovat Lahteen muistamaan vankileirin’, Yle News, 23 April 2013, at http://yle.fi/uutiset/3-6607021, accessed 22 October 2018; ‘The common event for all is a conciliatory and peaceful, soulful journey to the spring of 1918’; ‘All family members, including kids, are welcome’. Fellman Field Facebook page, accessed 29 May 2018. All translations of Finnish texts into English are by the authors. The originals are available upon request. Quoted from Kaisa Salmi; see Juha Säijälä, ‘Punavankien kärsimykset massaperformanssiksi’, Kulttuurivihkot, 23 April 2013, at http://kulttuurivihkot.fi/lehti/jutut/uutiset/364-punavankien-karsimykset-massaperformanssiksi, accessed 29 May 2018.
+
+16 Although the concept was developed by Salmi, she collaborated with artist Teemu Mäki, choreographer Hanna Brotherus and musician Heikki Salo to create the performance text, which was then realized by professional actors and musicians, Kaisa Korhonen and Mikko Kuustonen among others.
+
+17 A fragment of the text in question can be found on ‘Fellmanin pelto: 22 000 ihmisen elävä monumentti’, at www.youtube.com/watch?v=lW582Axwoq0, accessed 29 May 2018.
+
+18 Pearson, Site-Specific Performance, pp. 143–4.
+
+19 Nora, Pierre, Realms of Memory: Rethinking the French Past, Vol. I: Conflicts and Divisions (New York: Columbia University Press, 1992), p. 17Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+20 Peltonen, Ulla-Maija, Muistin paikat: Vuoden 1918 sisällissodan muistamisesta ja unohtamisesta (Helsinki: Suomalaisen Kirjallisuuden Seura, 2003), p. 234Find at University of Maryland College Park Find @ UMD | Google Scholar. In Lahti, two monuments had been erected earlier to commemorate fallen White soldiers (1921) and fallen German soldiers who fought on the White side (1920).
+
+21 Wilkie, Fiona, ‘Mapping the Terrain: A Survey of Site-Specific Performance in Britain’, New Theatre Quarterly, 18, 2 (2002), pp. 140–60, here pp. 143–4CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+22 Silja Kelo's comment on Fellman Field Facebook page, 28 April 2013, 07:26 p.m., accessed 17 August 2017.
+
+23 Katri Hakamäki's comment on Fellman Field Facebook Page, 30 April 2013, 05:55 a.m., accessed 17 August 2017.
+
+24 Harvie, Jen, Staging the UK (Manchester: Manchester University Press, 2005), p. 42Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+25 Pearson, Site-Specific Performance, p. 29.
+
+26 Ibid., pp. 49–50, 141.
+
+27 Merja Vatanen's comment on Fellman Field Facebook page, 28 April 2013, 09:01 p.m., accessed 17 August 2017.
+
+28 Jouko Enkelnotko's comment on Fellman Field Facebook page, 29 April 2013, 08.12 p.m., accessed 17 August 2017.
+
+29 Hanna K. H. Kopra's comment on Fellman Field Facebook page, 28 April 2013, 04:23 p.m., accessed 17 August 2017.
+
+30 Bishop, Claire, Artificial Hells: Participatory Art and the Politics of Spectatorship (London and New York: Verso, 2012), p. 2Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+31 Ibid., p. 9.
+
+32 On the centennial of the civil war's end, 15 May 2018, the documentary was aired on Yle Teema Fem Finnish Broadcasting Company, the national television network.
+
+33 Taylor, Diana, The Archive and the Repertoire: Performing Cultural Memory in the Americas (Durham, NC and London: Duke University Press, 2003), p. 193CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
+
+34 A comment on Fellman Field Facebook page, 28 April 2013, 10:37 a.m., accessed 13 April 2018. ‘The experience took me vividly to that time. Especially the search [looking for] for pieces of bread transported me to the midst of those people's suffering.’
+
+35 Marjaana Kontu's comment on Fellman Field Facebook page, 28 April 2013, 7:25 a.m., accessed 27 June 2018. ‘It was great to take part – to squeeze some grandpa who I didn't know.’
+
+36 Bala, Sruti, ‘Vectors of Participation in Contemporary Theatre and Performance’, Theatre Research International, 37, 3 (2012), pp. 236–48CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar, here p. 245.
+
+37 See ibid., p. 246.
+
+38 ‘Tuhannet muistelivat punavankien kohtaloa,’ Helsingin Sanomat, 28 April, 2013, at www.hs.fi/kulttuuri/a1367113411755, accessed 29 May 2018. Pekka Hongisto's comment on Fellman Field Facebook page, 24 March 2013, 06:21 p.m., accessed 9 March 2018.
+
+39 Minna Virtanen's comment on Fellman Field Facebook page, 2 October 2013, 11:02 p.m., accessed 17 August 2017.
+
+40 Pipsa Inervo's comment on Fellman Field Facebook page, 28 April 2013, 08.44 p.m., accessed 29 May 2018.
+
+41 Pearson, Site-Specific Performance, pp. 143–4.
+
+42 Peltonen, Muistin paikat, pp. 10–13, 17.
+
+43 Kaija Irmeli Olin-Arvola's comment on Fellman Field Facebook page, 29 April 2013, 14:03 p.m., accessed 29 May 2018.
+
+44 Antti Huopalainen's comment on Fellman Field Facebook page, 28 April 2013, 11:32 a.m., accessed 10 June 2017.
+
+45 Tepora and Roselius, The Finnish Civil War 1918, p. 5.
+
+46 Taylor, The Archive and the Repertoire, p. 195.
+
+47 Martti Lehto's comment on Fellman Field Facebook page, 26 April 2013, 10.06 a.m., accessed 23 March 2018.
+
+48 Etelä-Suomen Sanomat, 27 April 2013; published note on the work group for Fellman's Field Facebook page, 29 April 2013, 08:53 a.m., accessed 27 June 2018.
+
+49 Comment on Fellman Field Facebook page, 30 April 2013, 3:41 a.m., accessed 14 March 2017. The comment has since been removed. The labour movement represents the Reds’ political tradition in present-day Finland.
+
+50 Comment on Fellman Field Facebook page, 30 April 2013, 01:07 p.m., accessed 27 June 2018.
+
+51 Comment on Fellman Field Facebook page, 29 April 2013, 01:18 a.m., accessed 10 June 2017; Laura Kokkonen's comment on Fellman Field Facebook page, 28 April 2013, 18:53 p.m., accessed 27 June 2018.
+
+52 Ville Hoikkala's comment on Fellman Field Facebook page, 29 April 2013, 01:18 a.m., accessed 10 June 2017.
+
+53 Taylor, The Archive and the Repertoire, p. 195.
+
+54 Peltonen, Muistin paikat, pp. 221–8.
+
+55 Tepora and Roselius, The Finnish Civil War 1918, pp. 12–13. The government funding for the War Victims in Finland 1914–1922 project was 1.7 million euros.
+
+56 Työväenliikkeen kirjasto, at www.tyovaenperinne.fi/tyovaentutkimus/tt2005/nettiversio/tk3.htm, accessed 29 May 2018.
+
+57 See War Victims of Finland 1914–1922 Project database, at http://vesta.narc.fi/cgi-bin/db2www/sotasurmaetusivu/main?lang=en, accessed 27 June 2018.
+
+58 See www.ess.fi/Mielipide/paakirjoitukset/2013/04/30/alkaako-fellmanin-puistosta-sovinto, accessed 29 May 2018.
+
+59 Pauliina Arva, ‘Pellolla performanssissa tein sovintoa historian kanssa’, Liinan blogi (blog), 28 April, 2013, at https://liinanblogi.com/2013/04/28/pellolla-performanssissa-tein-sovintoa-historian-kanssa, accessed 29 May 2018.
+
+60 To be exact, 22,000 people, hence the title Fellman's Field: A Living Monument to 22,000 People.
+
+61 Pentti Sjöblom's comment on Fellman Field Facebook page, 28 April 2013, 12:21 p.m., accessed 14 March 2017. The comment has since been removed.
+
+62 Marja-Leena Parkkinen's comment on Fellman Field Facebook page, 15 April 2013, 05.47 p.m., accessed 27 June 2018.
+
+63 Martti Lehto's comment on Fellman Field Facebook page, 26 April 2013, 10.16 a.m., accessed 23 March 2018.
+
+64 Marja-Leena Parkkinen's comment on Fellman Field Facebook page, 28 April 2013, 12:21 p.m., accessed 13 April 2018.
+
+
+
+
+      </body>
+  </text>
+</TEI>

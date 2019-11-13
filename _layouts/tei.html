@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div id="TEI"></div>
+<div><a href="{{site.baseurl}}/assets/tei/{{page.document}}" target="_new">See original TEI.</a></div>
+
+<script src="{{site.baseurl}}/assets/CETEI.js"></script>
+<script>
+  var CETEIcean = new CETEI()
+  CETEIcean.getHTML5("{{site.baseurl}}/assets/tei/{{page.document}}", function(data) {
+    document.getElementById("TEI").appendChild(data)
+  })
+</script>
