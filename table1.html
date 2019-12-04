@@ -1,10 +1,36 @@
 ---
 layout: resource
-title: Table (1)
+title: Data Files
 permalink: /table1/
-location: https://airtable.com/embed/shruJROPncD786vZ7?backgroundColor=blue&viewControls=on
+location: "https://airtable.com/embed/shrqfaHYNAh7VQnW3?"
 type: table
 ---
 <div>
-<p>My table will go here</p>
-</div>
+<p>These tables contain the parsed bibliographic information from all 2019 issues of TDR and Theatre Survey.
+The bibliographic metadata was first extracted from PDFs of journal articles using AnyStyle-Parser in Ruby
+<a href=https://github.com/inukshuk/anystyle)>https://github.com/inukshuk/anystyle</a>. AnyStyle creates a series of json files containing the parsed bibliographical
+entries. Ed Summers at MITH develop customized tools using the Ruby Library
+to help streamline the extraction and file conversion process <a href=https://github.com/edsu/citation-playground>https://github.com/edsu/citation-playground</a>.
+We were then able to convert all the json files for one issue into a single CSV. </p>
+
+<p>There were a number of irregularities with this data which we cleaned up manually. In particular, dates
+  were not standarized across citations. For instance, citations from newspapers tended to use mm/dd/yy format
+  while books only listed the year. This made it impossible to accurately sort citations by date, so we
+  went through the dataset and standardized every entry to reflect only the year. In addition to irregularities in date,
+  several special characers, including
+  hyphens did not survive the conversion process, showing up in CSV files as "â€“. Where possible,
+  these irregular characters were double checked against the original citation and manually replaced.
+  </p>
+
+  <p> Other irregularities in the data arose from inconsistent formatting in the citations.
+    For instance, the citations in Theatre Survey are formatted as endnotes which means that while some
+    bibliographic entries have standard formatting and contain only bibliographic information,
+     others contain discursive notes from the author. These discursive endnotes
+    tended to confuse the parser. Where possible, we have cross-checked irregularities against the original PDFs
+    and manually corrected the entries. This is a time consuming process and remains a significant problem in workflow.
+    While AnyStyle can be trained and customized to better recognize bibliographic entries in differently
+    formatted documents, the training process (which involves preparing a training data set of marked up documents) would
+    not likely help the parser to sort through randomly assorted footnotes and endnotes.
+    </p>
+
+  </div>

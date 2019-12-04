@@ -6,16 +6,18 @@ layout: page
 <div class="resource">
     {% case page.type %}
   {% when "map" %}
-  <iframe
-  src="{{page.location}}"
-  width="640" height="480">
-</iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1E2HClJF30JNBwe7AhE4_NDfcbd3lR1Lb"
+width="640" height="480"></iframe>
+
+
+  {% when "graph" %}
+<iframe width="941.2771739130435" height="581.8491666666666" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGgI3btBzZj3VIOCqjMNUAlYV5dmXAT3zCsBMvWrM_rN9tDrPV57CW5LY1VvwX_RimIjFiuTzgYSGN/pubchart?oid=291381018&amp;format=image"></iframe>
+
+
   {% when "table" %}
-  <iframe class="airtable-embed"
-  src="https://airtable.com/embed/shruJROPncD786vZ7?backgroundColor=blue&viewControls=on"
-   frameborder="0" onmousewheel="" width="100%"
-   height="533" style="background: transparent; border: 1px solid #ccc;">
- </iframe>
+<iframe class="airtable-embed"
+src="https://airtable.com/embed/shrqfaHYNAh7VQnW3?backgroundColor=cyan" frameborder="0"
+ onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   {% else %}
     <p>Resource type unknown!</p>
 {% endcase %}

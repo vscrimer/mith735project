@@ -5,208 +5,501 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hello World</title>
+            <title>Sample TEI Encoding: Bibliographic Matter</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Theatre Survey</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information  about the source</p>
+            <p>59.1(2018)</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-<title type="Journal">Theatre Research International</title>
- vol. 44 | no. 1 |pp. 6–22 © International Federation for Theatre Research
-<title type="Article">
-  Remembering the Finnish Civil War: Embodied Empathy and Fellman Field
-</title>
-<bibl>
-  <author>Marja-Leena Parkkinen's</author>
-   comment on Fellman Field Facebook page, ‘Fellmanin pelto – 22 000 ihmisen elävä monumentti’,
-   28 April 2013, 12:21 p.m., at www.facebook.com/FellmaninPelto/?ref=br_rs, accessed 13 April 2018.
-Pearson, Mike, Site-Specific Performance (Basingstoke: Palgrave Macmillan, 2010), p. 141
+        <listBibl>
+      <bibl type="book">
+          <author>
+            <name>
+              <forename>Stephen</forename>
+              <surname>Gosson</surname>
+            </name>
+          </author>,
+          <title level="a">
+            "Plays Confuted in Five Actions (1582)"
+          </title>
+          in
+          <title level="m">
+            Shakespeare's Theater: A Sourcebook
+          </title>
+          ,
+          ed.
+          <editor>
+            Tanya Pollard
+        </editor>
+         (<pubPlace>
+          Malden, MA
+        </pubPlace>
+          : <publisher>
+          Blackwell
+        </publisher>
+          , <date>2004</date>),
+           <citedrange>
+             84-114
+             <citedrange>
+               , at 91.
+        </bibl>
 
-<bibl>
-  <persName type="artist">Salmi</persName>
-  (born 1968) is known for her many environmental artworks in urban milieux and also for such huge
-  eye-catching works as Road to Heaven (2011) and The Bottle Sea (2015), made of 300,000 swimming bottles.
-  She positions herself as a maker of political art, asking such questions as what art activism means to its
-  maker, and what drives an artist to make political art. See Oulun kaupunki, at
- www.ouka.fi/oulu/kulttuuri-ja-kirjastot/ajankohtaista/-/asset_publisher/2fVr/content/kaisa-salmi-fellmanin-pelto/477502, accessed 5 November 2018. In July 2016 Salmi presented another participatory performance about the civil war: Veripelto (Field of Blood). ‘Veripelto muistutti väkivallan mielettömyydestä Jättömaalla: yhteisöperformanssi keräsi noin 300 osallistujaa’, Kouvolan Sanomat, 23 July, 2016, at https://kouvolansanomat.fi/uutiset/lahella/68569954-23e3-4e53-8cca-4bdbe9c93f3a, accessed 29 May 2018.
 
-4 The phenomenon of embodied empathy (sometimes referred to as kinaesthetic empathy) is supported by neuroscientific research, and the concept is used in the practice of psychotherapy and art therapy. We find corresponding features between these practices and Fellman Field; that is, an attempt to create a space for attachment with a ‘broader humanity’ through bodily simulation. Writing on embodied simulation, Vittorio Gallese suggests, ‘A common underlying functional mechanism … mediates our capacity to experientially share the meaning of actions, intentions, feelings, and emotions with others, thus grounding our identification with and connectedness to others.’ See Gallese, Vittorio, ‘Empathy, Embodied Simulation and the Brain: Commentary on Aragno and Zep/Hartmann’, Journal of the American Psychoanalytic Association, 56, 3 (2008), pp. 769–81CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar, here p. 773. See also, for example, Harris, David Alan, ‘Pathways to Embodied Empathy and Reconciliation after Atrocity: Former Boy Soldiers in a Dance/Movement Therapy Group in Sierra Leone’, Intervention, 5, 3 (2007), pp. 203–31CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar; and Sletvold, Jon, ‘Embodied Empathy in Psychotherapy: Demonstrated in Supervision, Body, Movement and Dance in Psychotherapy’ Body, Movement and Dance in Psychotherapy, 10, 2 (2015), pp. 82–93CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-5 Although we interpret these social-media discussions as expressions of participant experiences as well as micro-examples of the public debate surrounding the piece, we are aware of the limitations of online comments as indicators of audience response. Participants in Fellman Field have not been interviewed, nor have they been surveyed for the purpose of this article. The description of the performance is based on documentation, not participation.
-
-<bibl>
-  <author>
-    Meinander, Henrik, Gustaf Mannerheim Aristokraatti sarkatakissa
-  </author>
-  <publisher>
-     (Helsinki: Otava, 2017)
-   </publisher>
-   <citedrange>
-     , p. 111
-   </citedrange>
- </bibl>
-
-<bibl>
-  <author>
-    Tepora, Tuomas and Roselius, Aapo, eds.,
-  </author>
-  <title> The Finnish Civil War 1918: History, Memory, Legacy
-  </title>
-  <publisher>
-    (Leiden: Brill Online, 2014)
-  </publisher>
-<citedrange>
-  , p. 1
-</citedrange>
-</bibl>
-
-Ibid., p. 1.
-
-Ibid., pp. 1–5.
-
-<bibl>
-  <author> Marko Tikka,
-  </author>
+      <bibl type="book">
+        <author>
+          <name>
+            <forename>
+        William
+      </forename>
+      <surname>
+        Holbrooke
+      </surname>
+    </name>
+  </author>,
   <title>
-     ‘Warfare and Terror in 1918’, in Tepora and Roselius, The Finnish Civil War 1918,
-   </title>
-   <citedrange>
-      pp. 90–118, here p. 113
-    </citedrange>
-    <bibl>
-
-Hennala was one of the largest and most infamous prison camps of the 1918 civil war.
+    Loves Complaint for Want of Entertainment, A Sermon Preached at Paules Crosse
+  </title>
+   (<pubPlace>
+   London</pubPlace>: Printed for
+   <publisher>
+     Nathaniel Butter
+   </publisher>,
+   <date>1609</date>). Transcribed in Ecclesiastical London, ed.
+   <editor>
+     Mary C. earlier
+   </editor>,
+    Records of Early English Drama 21 (Toronto: University of Toronto Press, 2008), 270.
+  </bibl>
 
 <bibl>
-  <author>
-    Hentilä, Seppo,
-  </author>
+  This larger argument unfolds in
+<author>
+  <name>
+    <surname>
+      Knapp
+    </surname>
+  </name>
+</author>
+'s
+<title>
+  Shakespeare's Tribe: Church, Nation and Theater in Renaissance England
   <title>
-     ‘From Independence to the End of the Continuation War 1917–1944’,
-    in Hentilä, Seppo, Jussila, Osmo and Nevakivi, Jukka,
-    From Grand Duchy to a Modern State: A Political History of Finland since 1809
+  (<pubPlace>
+  Chicago</pubPlace>
+  : <publisher>
+  University of Chicago Press
+</publisher>,
+<date>2002</date>
+). In particular, see
+<biblscope unit="chapter">
+    Chapter 4
+  </biblscope>
+  </citedrange>,
+  <title type="chapter">
+    "Preachers and Players,"
   </title>
-  <publisher>
-    (London: Hurst, 1999)
-  </publisher>
   <citedrange>
-    , pp. 99–213, here p. 112
-  </citedrange>
+     115≠40
+   </citedrange>
+   </bibl>
+   4. See
+   <author>
+     <name>
+       <surname>
+         Strong
+       </surname>
+     </name>
+   </author>
+   's inaugural study,
+   <title>
+     The English Icon: Elizabethan &amp; Jacobean Portraiture
+     <title>
+        (<pubPlace>
+        London
+      </pubPlace>:
+      <publisher>
+        Mellon Foundation, with Routledge &amp; Kegan Paul
+      </publisher>
+      ,<date> 1969
+    </date>),
+    <biblscope unit="volume">
+      xiv
+    </biblscope>
+  </bible>
+  <bibl>
+    See, for instance,
+    <author>
+      <name>
+        <forename>
+          Hans
+        </forename>
+        <surname>
+           Holbein
+         </surname>
+       </name>,
+     </author>
+       <title type="Painting">
+
+           Sir Thomas More, <date>1527</date>, oil on panel, 29 1/2 ◊ 23 3/4 in. (74.9 ◊ 60.3 cm),
+         </title>
+         <publisher>
+           The Frick Collection
+         </publisher>,
+         <pubPlace>
+           New York
+         </pubPlace>;
+         <ref target="http://collections.frick.org/view/objects/asitem/items">
+           http://collections.frick.org/view/objects/asitem/items
+         </ref>
+          $0040:100, accessed 21 May 2017.
+         <bibl>
+          <author>
+            <name>
+              <surname>
+                Strong
+              </surname>,
+              <citedrange unit="pages">
+                8, 13
+              </citedrange>.
+            </bibl>
+  <bibl>
+    <author>
+      <name>
+        <forename>
+          Robert
+        </forename>
+        <surname>
+           Tittler
+         </surname>
+       </name>
+     </author>,
+     <title>
+       The Face of the City: Civic Portraiture and Civic Identity in Early Modern England
+     </title> (
+     <pubPlace>
+       Manchester and New York
+     </pubPlace>:
+     <publisher>
+        Manchester University Press
+      </publisher>,
+      <date> 2007</date>),
+      <citedrange unit="pages">2</citedrange>
+      .
+    </bibl>
+
+  <bibl>
+    Ibid.
+  </bibl>
+  <bibl>
+    <author>
+      <name>
+        <forename>
+          John
+        </forename>
+        <surname>
+        Ingamells
+      </surname>
+    </name>
+  </author>
+         catalogs
+         <title>
+           Alleyn's portrait in Dulwich Picture Gallery :British
+         </title>
+          (<pubPlace>
+          London
+        </pubPlace>:
+        <publisher>
+          Unicorn, for Dulwich Picture Gallery
+        </publisher>,
+        <date>
+          2008
+        </date>),
+        <citedrange unit="pages">
+          19≠21
+        </citedrange>
+        .
+      </bibl>
+      <bibl>
+        See
+        <author>
+          <name>
+            <forename>
+              Sarah R.
+            </forename>
+                <surname>
+                   Cohen
+                 </surname>
+               </name>
+             </author>
+              's keynote address,
+              <title type="article">
+                "Showing the Heart: Love, Friendship, and Anatomy in Early Modern Portraiture,"
+              </title> in
+              <title type="journal">
+                Masculinities, Childhood, Violence: Attending to Early Modern Women--and Men,
+                Proceedings of the 2006 Symposium [of the Center for Renaissance &amp; Baroque Studies
+              </title>], eds.
+              <editor>
+                <name>
+                  <forename>
+                Amy E.
+              </forename>
+              <surname>
+                Leonard
+              </surname>
+                 and
+                 <forename>
+                    Karen L.
+                  </forename>
+                  <surname>
+                     Nelson
+                   </surname>
+                 </name>
+
+              </editor> (
+              <pubPlace>
+                Newark
+              </pubPlace>:
+              <publisher>
+                University of Delaware Press
+              </publisher>, and
+                <pubPlace>
+                  Lanham, MD
+                </pubPlace>:
+                <publisher>
+                  Rowman &amp; Littlefield
+                </publisher>,
+                <date>
+                  2011
+                </date>),
+                <citationrange unit="pages">
+                   21≠76
+                 </citationrange>.
+        <bibl>
+          See my article
+          <title type="article">
+            "Scorning the Image of Virtue: The Player Nathan Field's Letter to the Reverend Thomas Sutton, 1616,"
+          </title>
+          <title type="journal">
+            Religion and the Arts
+          </title>
+          <biblscope unit="volume">
+            20
+          </biblscope>.
+          <biblscope unit="issue">
+            3
+          </biblscope>
+           (<date>
+           2016
+         </date>):
+         <citationrange>
+           267≠89
+         </citationrange>, at
+         <biblscope unit="page">
+           272
+         </biblscope>
+          n.
+        </bibl>
+  <bibl>
+Knapp underscores the relative scholarly neglect by pointing to a longstanding secularization
+     theory that depicts Shakespeare's theatre as self-separated from religious concern. He shows that
+      men like Jonson and Shakespeare had deep religious convictions, and how these convictions were bound
+      up in their lives and in the plays they wrote. Whereas Knapp stays anecdotally grounded, synthesizing
+      a trove of archival research to make his case,
+      <author>
+        <name>
+          <forename>
+            Michael
+          </forename>
+          <surname>
+             O'Connell
+           </surname>
+         </name>
+       </author> draws on theological currents in
+      Reformation thought --those concerned with religion and performance.
+      <title>
+        In The Idolatrous Eye: Iconoclasm &amp; Theater in Early-Modern England
+      </title>
+       (<pubPlace>
+       New York
+     </pubPlace>:
+     <publisher>
+       Oxford University Press
+     </publisher>,
+     <date>
+       2000
+     </date>), O'Connell associates English iconoclasm with the period's antitheatrical prejudice and argues
+      that the theatre's "incarnational" mode of expression was deeply problematic for the church (
+      <citationrange unit="pages">
+        63≠88
+      </citationrange>
+      ).
+    </bibl>
+    <bibl>
+        See also
+      <title>
+        Religion and Drama in Early Modern England: The Performance of Religion on the
+      Renaissance Stage
+    </title>
+    , ed.
+    <editor>
+      <name>
+        <forename>
+          Jane
+        </forename>
+        <surname>
+           Hwang Degenhardt
+         </surname>
+       </name>
+        and
+        <name>
+        <forename>
+          Elizabeth
+        </forename>
+        <surname>
+           Williamson
+         </surname>
+       </name>
+     </editor>
+          (
+          <pubPlace>
+            London and Burlington, VT
+          </pubPlace>:
+          <publisher>
+            Ashgate
+          </publisher>,
+          <date>
+            2011
+          </date>).
+  </bibl>
+  <bibl>
+    <author>
+      <name>
+        <forename>
+          John
+        </forename>
+        <surname>
+           Northbrook
+         </surname>
+       </name>
+     </author>,
+     <title type="chapter">
+       "A Treatise against Dicing, Dancing, Plays, and Interludes, with Other Idle Pastimes (1577),"
+     </title> in
+     <title type="book">
+       Shakespeare's Theater
+     </title>, ed.
+     <editor>
+       <name>
+         <surname>
+         Pollard
+       </surname>
+     </name>
+   </editor>,
+   <citationrange>
+     1≠18
+   </citationrange> at
+     <biblscope unit="pages">
+  2≠3
+</biblscope>.
 </bibl>
+<bibl>
+  Knapp, 116. 14.
+  <author>
+    <name>
+      <forename>
+        Stephen
+      </forename>
+      <surname>
+         Greenblatt
+       </surname>
+     </name>
+   </author>,
+   <title>
+     Renaissance Self-Fashioning: From More to Shakespeare
+   </title> (
+   <pubPlace>
+     Chicago
+   </pubPlace>:
+   <publisher>
+     University of Chicago Press
+   </publisher>,
+   <date>
+     [1980] 2005)
+   </date>
+ </bibl>
+<bibl>
+Ibid., 2. 16.
+</bibl>
+<bibl>
+  Ibid., 7. 17.
+</bibl>
+<bibl>
+   Ibid., from the 2005 edition's new "Preface: Fashioning Renaissance Self-Fashioning," xi≠ xvii, at xiii. 18. See William Shakespeare, The Merchant of Venice, act IV, scene 1. 19. Greenblatt, xv. 20. Ibid. 21. Gosson, 110≠11. 22. Nathan Field, "Letter to Revd. Mr. Sutton (1616)," in Shakespeare's Theater, ed. Pollard, 274≠ 8, at 276. The missive responds to a sermon that Thomas Sutton wielded from the pulpit in direct attack on Field and his profession. Field's letter is a rare instance in the record of an actor defending the theatre. He portrays a deft use of biblical parable and political prowess to indict Sutton as both a spiritual poison and
 
-13 Tepora and Roselius, The Finnish Civil War 1918, p. 5.
+        Downloaded from https://www.cambridge.org/core. University of Maryland College Park, on 17 Nov 2019 at 05:28:17, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0040557417000497
 
-14 Gluhovic, Milija, Performing European Memories: Trauma, Ethics, Politics (Basingstoke: Palgrave Macmillan, 2013), p. 10CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
+        82
 
-15 ‘Tuhannet tahtovat Lahteen muistamaan vankileirin’, Yle News, 23 April 2013, at http://yle.fi/uutiset/3-6607021, accessed 22 October 2018; ‘The common event for all is a conciliatory and peaceful, soulful journey to the spring of 1918’; ‘All family members, including kids, are welcome’. Fellman Field Facebook page, accessed 29 May 2018. All translations of Finnish texts into English are by the authors. The originals are available upon request. Quoted from Kaisa Salmi; see Juha Säijälä, ‘Punavankien kärsimykset massaperformanssiksi’, Kulttuurivihkot, 23 April 2013, at http://kulttuurivihkot.fi/lehti/jutut/uutiset/364-punavankien-karsimykset-massaperformanssiksi, accessed 29 May 2018.
+Hand to the Heart
+        enemy of the state. The original manuscript is found in the State Papers Domestic of James I, lxxxix, 105, Public Records Office, London. See my detailed treatment of the letter in "Scorning the Image of Virtue: Church and Theatre in Post-Settlement England" (Ph.D. diss., Graduate Theological Union, 2015). 23. The Tragedy of Hamlet, Prince of Denmark, act III, scene 2. 24. M. C. Bradbrook, The Rise of the Common Player: A Study of Actor and Society in Shakespeare's England (London: Chatto &amp; Windus, 1962). 25. See John Bulwer, Chirologia; or, The Naturall Language of the Hand (London: Thomas Harper, 1644), 88. Bulwer was also a Baconian natural philosopher, and he proposed the first manuals and curriculum for instructing the deaf. 26. Strong further develops and broadens his analysis of English portraiture in The Cult of Elizabeth: Elizabethan Portraiture and Pageantry (London: Thames & Hudson, 1977), 56. 27. See a detailed identification of this portrait in Charles Knowles Bolton, The Founders: Portraits of Persons Born Abroad Who Came to the Colonies in North America before the Year 1701. . . [1919], 3 vols. in 2 (Baltimore: Genealogical Pub. Co., 1976), 3: 1004≠15. 28. Cohen, 21. 29. According to Janice Knight, "It was only with the Word as delivered by Richard Sibbes that Cotton's affections were turned. The sermon that so affected him was a meditation on regeneration, in which Sibbes rejected `negative righteousness' or `mere civil, sober, honest blamelessness before men' as an indication of grace received. Nor would Sibbes allow for the violent hammering of the heart as a preparation for grace. Instead Sibbes' sermons stressed God's turning of the heart as witnessed by lively affections, a new relish and taste for divine things. . . . His words filled Cotton `with a sacred joy, which accompanied him unto the fulness of joy for ever.' This was the doctrine Cotton had long awaited, the one that drew him from the study to the pulpit. . . . Legend has it that his heart was so immediately transformed by Sibbes' gospel that on the next occasion of his own preaching, Cotton abandoned his former ornate rhetoric and spoke in the simple and affecting words of the puritan plainstyle, advertising to all the world his conversion." See Knight, "A Garden Enclosed: The Tradition of Heart-piety in Puritan New England" (Ph.D. diss., Harvard University, 1988), 90≠1. 30. Cohen, 21. See her example: Peter Paul Rubens, Self-Portrait in a Circle of Friends at Mantua, ca. 1602≠5, oil on canvas, 77.5 cm ◊ 101 cm. Wallraf-Richartz Museum, Cologne; www.wallraf.museum/uploads/tx_imagecycle/Rubens_SelbstbildnisMantua_WRM_Dep_0248_01.jpg, accessed 21 May 2017. 31. Bulwer, 88. 32. Tanya Pollard, "Introduction," in Shakespeare's Theater, ed. Pollard, x≠xxv, at xiv. 33. See Haigh's The Plain Man's Pathways to Heaven: Kinds of Christianity in Post-Reformation England, 1570≠1640 (Oxford: Oxford University Press, 2007), 20. 34. Ibid., 22≠3. 35. In the popular mind, Twelfth Night's Malvolio may be Shakespeare's quintessential puritanical hypocrite. 36. This oft-used quotation is from Philip Sidney's The Defence of Poesy (ca. 1579; published 1595), repr. as "An Apology for Poetry (1595)," in Shakespeare's Theater, ed. Pollard, 146≠65, at 153. 37. Gosson, 96. 38. Field, 276. 39. See Thomas Lodge's "A Reply to Stephen Gosson's School of Abuse, in Defence of Poetry, Music, and Stage Plays (1579)," in Shakespeare's Theater, ed. Pollard, 37≠61. 40. See Sidney, 150≠1. 41. William Perkins, The Arte of Prophecying (London: Felix Kyngston, 1607), 1≠3. 42. Knapp, 118. 43. See my 2016 article, "Scorning the Image of Virtue." I provide literary and historical analysis of a letter from Field to Sutton, one that is addressed here only briefly. The letter attests to Field's religious commitments in the face of religious hypocrisy and the antitheatrical attack, and he extends his concerns on behalf of himself as well as his fellow players. Field's portrait read intertextually with his letter brings the religious iconography of the image into greater relief.
 
-16 Although the concept was developed by Salmi, she collaborated with artist Teemu Mäki, choreographer Hanna Brotherus and musician Heikki Salo to create the performance text, which was then realized by professional actors and musicians, Kaisa Korhonen and Mikko Kuustonen among others.
+        1. Metamora; or, The Last of the Wampanoags loosely follows the events of King Philip's War, renaming Metacomet, known to the English colonists as King Philip, Metamora. The title role of the play became the "model Indian" in American life, according to Gordon Sayre. In his book The Indian Chief as Tragic Hero (Chapel Hill: University of North Carolina Press, 2005) he explains Metamora was "the most popular role for the most popular actor in the nineteenth-century United States" (80) and thus had outsized influence on American theatre practice and theatre history. See Sayre's chap. 3 for a discussion of Metacomet in American literature and theatre. 2. In this article, I use the word "Indian" to refer to a stereotypical and racialized figure/idea and "Native American" to refer to actual indigenous people whose homelands are now called the United States of America but who commonly refer to the land as Turtle Island. I understand that these terms bring their own sets of problems and limitations, but choose to employ them in an attempt to communicate clearly and effectively. 3. Richard Moody, Edwin Forrest: First Star of the American Stage (New York: Alfred A. Knopf, 1960), 39≠40. 4. Gabriel Harrison, Edwin Forrest: The Actor and the Man (Brooklyn, NY: Brooklyn Eagle Book Printing Department, 1889), 37. 5. H. B. Cushman's History of the Choctaw, Chickasaw and Natchez Indians (Stillwater: Redlands Press, 1962) was first published in 1899 (Greenville, TX: Headlight Printing House). Gideon Lincecum's biography of Pushmataha (see note 31) was originally published in 1906 (as "Life of Apushimataha," Publications of the Mississippi Historical Society 9, 415≠85) but had been written decades earlier. 6. See James Tyler Carson, Searching for the Bright Path: The Mississippi Choctaws from Prehistory to Removal (Lincoln: University of Nebraska Press, 1999); Pre-Removal Choctaw History: Exploring New Paths, ed. Greg O'Brien (Norman: University of Oklahoma Press, 2008); Valerie Lambert, Choctaw Nation: A Story of American Indian Resurgence (Lincoln: University of Nebraska Press, 2007); Greg O'Brien, Choctaws in a Revolutionary Age, 1750≠1830 (Lincoln: University of Nebraska Press, 2002); and D. L. Birchfield, How Choctaws Invented Civilization and Why Choctaws Will Conquer the World (Albuquerque: University of New Mexico Press, 2007). 7. Montrose J. Moses, The Fabulous Forrest: The Record of an American Actor (Boston: Little, Brown, & Co., 1929), 62. 8. Moody, 46≠7. 9. William Rounseville Alger, Life of Edwin Forrest: The American Tragedian, 2 vols. (Philadelphia: J. B. Lippincott & Co., 1877), 1: 138. 10. Moody, 47. 11. Ibid. 12. "Books of the Day," Appleton's Journal: A Magazine of General Literature 3.3 (September 1877): 284≠8, at 285. 13. Alger, 1: 138. 14. For more on the American phenomenon of white men playing Indian see Philip J. Deloria's seminal work Playing Indian, Yale Historical Publications (New Haven: Yale University Press, 1998). 15. Alger, 1: 138. 16. Ibid., 1: 239. Emphasis added. 17. There are currently two federally recognized Wampanoag tribes--the Mashpee Wampanoag and the Wampanoag Tribe of Gay Head (Aquinnah)--and others that hold some form or state or selfrecognition, including the Herring Pond, Assonet, Chappaquiddick, and Namasket bands/tribes. 18. There are currently three federally recognized Choctaw tribes--Choctaw Nation of Oklahoma, Mississippi Band of Choctaw Indians, and Jena Band of Choctaw Indians (Louisiana)-- plus a few other bands and groups that hold state or self-recognition. 19. In a December 1829 message to Congress, mere days before Metamora opened, President Andrew Jackson suggested "setting apart an ample district West of the Mississippi . . . to be guaranteed
 
-17 A fragment of the text in question can be found on ‘Fellmanin pelto: 22 000 ihmisen elävä monumentti’, at www.youtube.com/watch?v=lW582Axwoq0, accessed 29 May 2018.
 
-18 Pearson, Site-Specific Performance, pp. 143–4.
+to the Indian tribes as long as they shall occupy it" (Register of Debates, 21st Congress 1st Session, 14). Although this was not the first time removal was suggested as a policy for addressing Native American presence in the United States, it did mark the beginning of earnest debate that led to the passage of the Indian Removal Act in May 1830. 20. Jill Lepore, The Name of War: King Philip's War and the Origins of American Identity (New York: Alfred A. Knopf, 1998), 201. 21. Ibid. 22. Matthew Rebhorn, "Edwin Forrest's Redding Up: Elocution, Theater, and the Performance of the Frontier," in "Popular Entertainment and American Theater Prior to 1900," ed. Nicolas S. Witschi, special issue, Comparative Drama 40.4 (Winter 2006≠7): 455≠81, at 467. 23. Ibid. 24. Cristina Stanciu, "`The Last Indian' Syndrome Revisited: Metamora, Take Two," Intertexts 10.1 (2006): 25≠49, at 34. 25. Ibid., 34, 36. 26. Karl M. Kippola, Acts of Manhood: The Performance of Masculinity on the American Stage, 1828≠1865 (New York: Palgrave Macmillan, 2012), 61. 27. The Choctaw people lived in a territory that included modern-day Mississippi, Louisiana, and Alabama, though regular hunting and war trips were made well beyond this area, including west of the Mississippi River; so to confine their nation to one modern state is a clumsy and brief way of articulating the nation's homelands. In the interest of full disclosure, it should be noted that the author of this article is a member of the Choctaw Nation of Oklahoma and therefore a descendant of the Choctaw who lived in the southeastern region of the United States. 28. Charles Lanman, "Pushmatahaw," Appleton's Journal: A Magazine of General Literature 4.71 (6 August 1870): 166≠8. 29. His birth year is agreed upon by various sources, though no more specific information is available as to month or day. His death date is verifiable through newspaper records and his gravestone at Congressional Cemetery in Washington, DC. 30. The Choctaw Nation of Oklahoma maintains a brief biography of Pushmataha on its website, along with biographies of its chiefs since 1830. Its contents agree with the above-listed biographies on all major points of his life and contributions to the nation. For Appleton's Journal, see note 28; for Cushman, see note 5. 31. Gideon Lincecum, Pushmataha: A Choctaw Leader and His People (Tuscaloosa: University of Alabama Press, 2004), 89. 32. The 1802 Treaty of Fort Confederation lists four representatives on behalf of the "lower towns and Chicasawhay," two from the "upper towns," and four on behalf of the "six towns and lower town." Pushmataha was the fourth of the first group to sign his x mark on the treaty (his name spelled Poosha Mattahaw). "Treaty with the Choctaw, 1802," 17 October 1802, 7 Stat. 73, in Indian Affairs: Laws and Treaties, vol. 2: Treaties, ed. Charles J. Kappler, 2d ed. (Washington, DC: Government Printing Office, 1904), 63≠4. 33. The original Choctaw meeting records have been published alongside an English translation in Peter Perkins Pitchlynn, A Gathering of Statesmen: Records of the Choctaw Council Meetings, 1826≠ 1828, trans. and ed. Marcia Haag and Henry J. Willis (Norman: University of Oklahoma Press, 2013). 34. Alexandria Gazette, "Died," reprinted from the Washington [DC] National Journal (Alexandria, VA, 4 January 1825); retrieved from NewsBank Early American Newspapers, Series 2, accessed 30 January 2016. 35. For more information on his military career during the War of 1812, see Anna Lewis, Chief Pushmataha, American Patriot: The Story of the Choctaws' Struggle for Survival (New York: Exposition Press, 1959), chap. 6. 36. Alexandria Gazette, "Died." 37. Notable burials include John Philip Sousa, the march composer, and Mathew Brady, the Civil War photographer. For more information see "Welcome to Historic Congressional Cemetery," www.congressionalcemetery.org/default.asp, accessed 25 February 2016.
 
-19 Nora, Pierre, Realms of Memory: Rethinking the French Past, Vol. I: Conflicts and Divisions (New York: Columbia University Press, 1992), p. 17Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-20 Peltonen, Ulla-Maija, Muistin paikat: Vuoden 1918 sisällissodan muistamisesta ja unohtamisesta (Helsinki: Suomalaisen Kirjallisuuden Seura, 2003), p. 234Find at University of Maryland College Park Find @ UMD | Google Scholar. In Lahti, two monuments had been erected earlier to commemorate fallen White soldiers (1921) and fallen German soldiers who fought on the White side (1920).
-
-21 Wilkie, Fiona, ‘Mapping the Terrain: A Survey of Site-Specific Performance in Britain’, New Theatre Quarterly, 18, 2 (2002), pp. 140–60, here pp. 143–4CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-22 Silja Kelo's comment on Fellman Field Facebook page, 28 April 2013, 07:26 p.m., accessed 17 August 2017.
-
-23 Katri Hakamäki's comment on Fellman Field Facebook Page, 30 April 2013, 05:55 a.m., accessed 17 August 2017.
-
-24 Harvie, Jen, Staging the UK (Manchester: Manchester University Press, 2005), p. 42Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-25 Pearson, Site-Specific Performance, p. 29.
-
-26 Ibid., pp. 49–50, 141.
-
-27 Merja Vatanen's comment on Fellman Field Facebook page, 28 April 2013, 09:01 p.m., accessed 17 August 2017.
-
-28 Jouko Enkelnotko's comment on Fellman Field Facebook page, 29 April 2013, 08.12 p.m., accessed 17 August 2017.
-
-29 Hanna K. H. Kopra's comment on Fellman Field Facebook page, 28 April 2013, 04:23 p.m., accessed 17 August 2017.
-
-30 Bishop, Claire, Artificial Hells: Participatory Art and the Politics of Spectatorship (London and New York: Verso, 2012), p. 2Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-31 Ibid., p. 9.
-
-32 On the centennial of the civil war's end, 15 May 2018, the documentary was aired on Yle Teema Fem Finnish Broadcasting Company, the national television network.
-
-33 Taylor, Diana, The Archive and the Repertoire: Performing Cultural Memory in the Americas (Durham, NC and London: Duke University Press, 2003), p. 193CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar.
-
-34 A comment on Fellman Field Facebook page, 28 April 2013, 10:37 a.m., accessed 13 April 2018. ‘The experience took me vividly to that time. Especially the search [looking for] for pieces of bread transported me to the midst of those people's suffering.’
-
-35 Marjaana Kontu's comment on Fellman Field Facebook page, 28 April 2013, 7:25 a.m., accessed 27 June 2018. ‘It was great to take part – to squeeze some grandpa who I didn't know.’
-
-36 Bala, Sruti, ‘Vectors of Participation in Contemporary Theatre and Performance’, Theatre Research International, 37, 3 (2012), pp. 236–48CrossRef | Find at University of Maryland College Park Find @ UMD | Google Scholar, here p. 245.
-
-37 See ibid., p. 246.
-
-38 ‘Tuhannet muistelivat punavankien kohtaloa,’ Helsingin Sanomat, 28 April, 2013, at www.hs.fi/kulttuuri/a1367113411755, accessed 29 May 2018. Pekka Hongisto's comment on Fellman Field Facebook page, 24 March 2013, 06:21 p.m., accessed 9 March 2018.
-
-39 Minna Virtanen's comment on Fellman Field Facebook page, 2 October 2013, 11:02 p.m., accessed 17 August 2017.
-
-40 Pipsa Inervo's comment on Fellman Field Facebook page, 28 April 2013, 08.44 p.m., accessed 29 May 2018.
-
-41 Pearson, Site-Specific Performance, pp. 143–4.
-
-42 Peltonen, Muistin paikat, pp. 10–13, 17.
-
-43 Kaija Irmeli Olin-Arvola's comment on Fellman Field Facebook page, 29 April 2013, 14:03 p.m., accessed 29 May 2018.
-
-44 Antti Huopalainen's comment on Fellman Field Facebook page, 28 April 2013, 11:32 a.m., accessed 10 June 2017.
-
-45 Tepora and Roselius, The Finnish Civil War 1918, p. 5.
-
-46 Taylor, The Archive and the Repertoire, p. 195.
-
-47 Martti Lehto's comment on Fellman Field Facebook page, 26 April 2013, 10.06 a.m., accessed 23 March 2018.
-
-48 Etelä-Suomen Sanomat, 27 April 2013; published note on the work group for Fellman's Field Facebook page, 29 April 2013, 08:53 a.m., accessed 27 June 2018.
-
-49 Comment on Fellman Field Facebook page, 30 April 2013, 3:41 a.m., accessed 14 March 2017. The comment has since been removed. The labour movement represents the Reds’ political tradition in present-day Finland.
-
-50 Comment on Fellman Field Facebook page, 30 April 2013, 01:07 p.m., accessed 27 June 2018.
-
-51 Comment on Fellman Field Facebook page, 29 April 2013, 01:18 a.m., accessed 10 June 2017; Laura Kokkonen's comment on Fellman Field Facebook page, 28 April 2013, 18:53 p.m., accessed 27 June 2018.
-
-52 Ville Hoikkala's comment on Fellman Field Facebook page, 29 April 2013, 01:18 a.m., accessed 10 June 2017.
-
-53 Taylor, The Archive and the Repertoire, p. 195.
-
-54 Peltonen, Muistin paikat, pp. 221–8.
-
-55 Tepora and Roselius, The Finnish Civil War 1918, pp. 12–13. The government funding for the War Victims in Finland 1914–1922 project was 1.7 million euros.
-
-56 Työväenliikkeen kirjasto, at www.tyovaenperinne.fi/tyovaentutkimus/tt2005/nettiversio/tk3.htm, accessed 29 May 2018.
-
-57 See War Victims of Finland 1914–1922 Project database, at http://vesta.narc.fi/cgi-bin/db2www/sotasurmaetusivu/main?lang=en, accessed 27 June 2018.
-
-58 See www.ess.fi/Mielipide/paakirjoitukset/2013/04/30/alkaako-fellmanin-puistosta-sovinto, accessed 29 May 2018.
-
-59 Pauliina Arva, ‘Pellolla performanssissa tein sovintoa historian kanssa’, Liinan blogi (blog), 28 April, 2013, at https://liinanblogi.com/2013/04/28/pellolla-performanssissa-tein-sovintoa-historian-kanssa, accessed 29 May 2018.
-
-60 To be exact, 22,000 people, hence the title Fellman's Field: A Living Monument to 22,000 People.
-
-61 Pentti Sjöblom's comment on Fellman Field Facebook page, 28 April 2013, 12:21 p.m., accessed 14 March 2017. The comment has since been removed.
-
-62 Marja-Leena Parkkinen's comment on Fellman Field Facebook page, 15 April 2013, 05.47 p.m., accessed 27 June 2018.
-
-63 Martti Lehto's comment on Fellman Field Facebook page, 26 April 2013, 10.16 a.m., accessed 23 March 2018.
-
-64 Marja-Leena Parkkinen's comment on Fellman Field Facebook page, 28 April 2013, 12:21 p.m., accessed 13 April 2018.
+38. The online internment records were previously searchable online and as of 25 February 2016 listed Pushmataha's entry as "Y T Push-Ma-Ta-Ha, Chief 12/25/1824 R 31/41." The new search feature note Section1, Site 41, Range 31 and maps indicates where the grave is located: www.congressionalcemetery.org/search-interment-records.asp, accessed 2 October 2017. 39. Alger, 1: 126≠7. 40. Alger, 1: 119. The claim to owning Bowie's own knife also appears in Lawrence Barrett, Edwin Forrest (Boston: James R. Osgood &amp; Co., 1881), 35. 41. For a summary of Forrest's early career see E. T. W., The Biography of Edwin Forrest the Distinguished American Tragedian (Philadelphia: Turner & Fisher, 1835). See also Barrett, 39≠41. 42. Barrett, 48. 43. William R. Williamson, "Bowie Knife," in Handbook of Texas Online (Texas State Historical Association, 2010), www.tshaonline.org/handbook/online/articles/lnb01, accessed 29 August 2017. 44. Alger, 1: 127. 45. Cushman, 266. 46. Lanman, 166≠8. 47. Lewis, 185. 48. "Ratified Treaty No. 160. Documents Relating to the Negotiation of the Treaty of September 27, 1830, with the Choctaw Indians" (Washington, DC: National Archives, 1830), 76, lines 4≠5; online at http://images.library.wisc.edu/History/EFacs/IndianTreatiesMicro/IT1830no160/reference/history. it1830no160.i0001.pdf, accessed 27 October 2017. (Some other government printings have "Pushmilaha, and Puckteshenubbee.") 49. Jennifer [Mieirs], "Observations from a Genealogy Addict," http://jenniferhsrn.blogspot. com/2013/03/pushmataha-and-mushulatubbee-family.html, accessed 7 May 2016. This blogger has extensive coverage of Choctaw genealogy, but does not provide links to or thorough citations of sources. 50. See "Alabama Legislative Acts," www.legislature.state.al.us/aliswww/history/timeline. html, accessed 7 May 2016. 51. For an index to the acts of Congress for the Fifteenth Session see xx≠xxvii at www.loc. gov/law/help/statutes-at-large/13th-congress/c13.pdf, accessed 10 October 2016. 52. Journal of the Senate of the State of Mississippi at the first session of the first General Assembly (Washington, MS: Andrew Marschalk, state printer, 1817). 53. Kappler, 317. 54. Cushman, 271. 55. Mississippi County Court Records (Greenwood, MS: n.p., 1958), 61. 56. Imaghoka may have been a clan name or a town name that indicated more precisely the woman's identity. In Indian Agent correspondence from the 1840s Choctaws from "Emogahoka" or of "Moghaka" are mentioned a few times. See letters from William Armstrong dated 17 March 1847 and 27 April 1847 in Letters Received by the Office of Indian Affairs 1824≠81, Choctaw Agency Emigration, 1826≠1859 (Washington, DC: National Archives and Records Service, General Services Administration, 1959), Microfilm Roll 186 (1846≠9). 57. Mississippi County Court Records, 61. Betsie appears three times in the document, twice spelled Betsie and once spelled Betsy. 58. The Choctaw Academy: Official Correspondence 1825≠1841, ed. Joe R. Goss (Conway, AR: Oldbuck Press, 1992), 144≠5. 59. For a representative sample of Choctaw names during Removal refer to Choctaw Emigration Records: 1831≠1856, comp. Monty Olsen (Calera, OK: Bryan County Heritage Association, 1990). 60. "Philadelphia Baptist Church: Record of Organization and Conferences. Tulsa Annals: May and September Volumes, 1975," ed. Leslie N. Schorn, in A Compilation of Records from the Choctaw Nation, Indian Territory (Oklahoma City: Oklahoma Genealogical Society, 1979); Newberry Library, Chicago, Microfilm no. 381.
 
 
 
+61. Ibid., 693. 62. Pitchlynn, 9; the map had first been published in Clara Sue Kidwell, Choctaws and Missionaries, 1818≠1918 (Norman: University of Oklahoma Press, 1995). Twentieth-century biographer Anna Lewis states Pushmataha was born in and led the Six Towns district; Lewis, 13, 119. 63. See Lewis, 119; Pitchlynn, 11. 64. "Records of the Choctaw Trading Post, St. Stephens, Mississippi Territory, National Archives Microfilm T500, Roll 1 & 2," in Records of Choctaw Trading Post, St. Stephens, Mississippi Territory 1803≠1815, vol. 1: 1808 & 1810 Census, Washington County, Mississippi Territory (Alabama), comp. Ben Strickland and Jean Strickland (Ashdown, AR: Jody Strickland, 1984; reprinted Moss Point, MS: B. & J. Strickland, 1990); see, e.g., 28≠9. 65. Biographies of Forrest also state that his Choctaw friend regularly visited New Orleans, and that is where they first met. 66. Strickland and Strickland, 43. 67. Barrett, 32. 68. Moody, 40. 69. Alger, 1: 139. 70. Jacky Bratton, New Readings in Theatre History (Cambridge: Cambridge University Press, 2003), 103. 71. His military presence endured into the 1860s when the US Navy named a ship after him: the Pushmataha was a screw sloop, a propeller-driven warship mounted with guns. For more information see www.history.navy.mil/research/histories/ship-histories/danfs/p/pushmataha.html, accessed 19 October 2016. "Pushmataha," in US Naval History and Heritage Command, Dictionary of American Naval Fighting Ships (posted 25 August 2015). 72. The Five Civilized Tribes include the Choctaw, Chickasaw, Cherokee, Creek (Mvskoke), and Seminole. They still maintain a special relationship among themselves and since 1949 have combined to address important national topics in the Inter-Tribal Council of the Five Civilized Tribes. For more information see www.fivecivilizedtribes.org, accessed 19 October 2016. 73. Alger, 1: 127. 74. As cited in Moody, 96. 75. Lepore, 213. 76. Alger, 1: 126. 77. Ibid., 139. 78. Moody, 89. 79. Harrison, 37. 80. Ibid., 38. 81. Moody, 40. 82. No source consulted for this article mentions or even suggests Forrest spoke or understood Chahta Anumpa. Further undermining Forrest's claims to have known the real Pushmataha is the fact that Pushmataha was not fluent in English. His obituary, written for and published in American newspapers, specifically states he needed an interpreter, "for he spoke no English." 83. Harrison, 38. 84. See Harvey Young's Embodying Black Experience: Stillness, Critical Memory, and the Black Body (Ann Arbor: University of Michigan Press, 2010) for a discussion of blackness and the relationship between "the" and "a/an" in the construction and (mis)recognition of race. 85. For examples see B. Donald Grose, "Edwin Forrest, Metamora, and the Indian Removal Act of 1830," Theatre Journal 37.2 (1985): 181≠91; Eugene H. Jones, Native Americans as Shown on the Stage 1753≠1916 (Metuchen, NJ: Scarecrow Press, 1988); Sally L. Jones, "The First but Not the Last of the `Vanishing Indians': Edwin Forrest and Mythic Re-creations of the Native Population," in Dressing in Feathers: The Construction of the Indian in American Popular Culture, ed. S. Elizabeth Bird (Boulder, CO: Westview Press, 1996), 13≠27; Mark E. Mallett, "`The Game of Politics': Edwin Forrest and the Jackson Democrats," Journal of American Drama and Theatre 5.2 (1993): 31≠46; Scott C. Martin, "Interpreting Metamora: Nationalism, Theater, and Jacksonian
 
+1. Peter Brook, The Empty Space (1968; reprint ed., New York: Touchstone, 1996), 42≠9, at 45. 2. Ibid., 9. 3. Ibid., 78≠9. See Bertolt Brecht, "Epic Theatre and Its Difficulties," in Brecht on Theatre: The Development of an Aesthetic, ed. and trans. John Willett (New York: Hill & Wang, 1964), 22≠4, at 22≠3. 4. See E. K. Chambers, The Mediaeval Stage, 2 vols. (London, UK: Oxford University Press, 1903), and Karl Young, The Drama of the Medieval Church, 2 vols. (Oxford, UK: Clarendon Press, 1933). O. B. Hardison, Christian Rite and Christian Drama in the Middle Ages: Essays in the Origin and Early History of Modern Drama (Baltimore: Johns Hopkins Press, 1965) improves upon the narrative established by Chambers and Young through a focus on the development of liturgical drama as a natural progression, and perhaps fuller expression, of Christian liturgical rite. See also
+Downloaded from https://www.cambridge.org/core. University of Maryland College Park, on 17 Nov 2019 at 05:27:20, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0040557417000461
+
+
+Glynne Wickham, The Medieval Theatre (London: Weidenfeld & Nicolson, 1974), for an exploration of the intersections among liturgical drama, secular plays, and other ludic activities (e.g., mummery). 5. On the appearance of liturgical dramatic tropes beginning only in the tenth century, and supposedly confined to clerical audiences within monastic spaces, see David Bevington, Medieval Drama, 2d ed. (Indianapolis: Hackett, 2012), 21≠4. See also see Katie Normington, Medieval English Drama (Cambridge: Polity Press, 2009), 17, which opens with the chapter "Drama of Enclosure: Convent Drama" (17≠33). 6. Gail McMurray Gibson, The Theater of Devotion: East Anglian Drama and Society in the Late Middle Ages (Chicago: University of Chicago Press, 1989), and Jody Enders, Rhetoric and the Origins of Medieval Drama (Ithaca, NY: Cornell University Press, 1992), each mark a turning point in the entrenched historiographical approach to drama in the Middle Ages. See also Claire Sponsler, Drama and Resistance: Bodies, Goods, and Theatricality in Late Medieval England (Minneapolis: University of Minnesota Press, 1997). For further references see note 23 below. 7. Carol Symes, "The Drama of Conflict and Conquest: Medieval Theatre's First Millennium," ROMARD 51 (2012): 69≠74. The same problem exists for designating medieval texts as "liturgical"; see Carol Symes, "Liturgical Texts and Performance Practices," in Understanding Medieval Liturgy, ed. Helen Gittos and Sarah Hamilton (Farnham, Surrey, UK: Ashgate, 2015), 239≠67. 8. Jody Enders, "Medieval Stages," Theatre Survey 50.2 (November 2009): 317≠25. 9. Carol Symes, A Common Stage: Theater and Public Life in Medieval Arras (Ithaca, NY: Cornell University Press, 2007), 2. I am indebted to Symes and her approach to medieval documents that "treats all premodern texts as potential participants in a culture of performance" (2; original emphasis). 10. Giles Brown, "Introduction: The Carolingian Renaissance," in Carolingian Culture: Emulation and Innovation, ed. Rosamund McKitterick (Cambridge: Cambridge University Press, 1994), 1≠51, at 34≠44. 11. Brook, 16, states that "the theatre is relativity" to underscore the fluidity of theatre forms throughout history. Though he is referential of a modern theatre, he lays out the historiographical emphasis that undergirds this essay; whereby a fluidity of form allows for permeation and exchange among various media. 12. The frame of performativity in medieval documentary practice has been applied largely to analyses of illuminated manuscripts. See Robert L. A. Clark and Pamela Sheingorn, "Performative Reading: The Illustrated Manuscripts of Arnoul GrÈban's MystËre de la Passion," European Medieval Drama 6 (2002): 129≠72; Karlyn Griffith, "Performative Reading and Receiving a Performance of the Jour du Jugement in MS BesanÁon 579," Comparative Drama 45.2 (2011): 99≠ 126; and Isidro J. Rivera, "Visualizing the Passion in AndrÈs de Li's Summa de paciencia," Revista Hisp·nica Moderna 67.1 (2014): 55≠72. 13. See W. T. H. Jackson, "Time and Space in the Ludus de Antichristo," Germanic Review 54.1 (1979): 1≠8. The extant manuscript (Bayerische Staatsbibliothek clm 19411) contains an instruction for Ecclesia to sing the liturgical Alto consilio (a New Year's liturgy common in the twelfth century), though it is not included in the text of the play; see Chambers, 2: 62≠3. 14. Gerhoh of Reichersberg, De investigatione Antichristi 1.5, ed. Ernst Sackur, Monumenta Germaniae Historica (MGH) Libelli de lite imperatorum et pontificum (Ldl) 3 (Hanover: Hahnsche Buchhandlung, 1897), 315≠16. 15. Ibid.: "Quid ergo mirum, si et isti nunc Antichristum vel Herodem in suis ludis simulantes eosdem non, ut eis intentioni est, ludicro mentiuntur, sed in veritate exhibent, utpote quorum vita ab Antichristi laxa conversatione non longe abest? Horum enim locum quidem sanctum et vitam sanctitati contrariam si adtendas, quasi alienigenas in arce et abominationem desolationis videre te suspicaberis in loco sancto stantem. . . . Et quis scire potest, an et cetera simulata, Antichristi scilicet effigiem, demonum larvas, Herodianam insaniam in veritate non exhibeant? . . . Exhibent preterea imaginaliter et Salvatoris infantiae cunabula, parvuli vagitum, puerpere virginis matronalem habitum, stelle quasi sidus flammigerum, infantum necem, maternum Rachelis ploratum."
+
+
+16. Chambers, 2: 98≠9, implicitly connects the two texts in his short examination of Antichrist ludi. Young, 2: 392, on the other hand, believes there is a specific correlation between Gerhoh's treatise and the Tegernsee Ludus de Antichristo. See also in The Play of Antichrist, trans. John Wright (Toronto: Pontifical Institute of Medieval Studies, 1967), 39; Richard Axton, European Drama of the Early Middle Ages (Pittsburgh: University of Pittsburgh Press, 1975), 45; and William Tydeman, The Theatre in the Middle Ages: Western European Stage Conditions, c. 800≠1576 (Cambridge: Cambridge University Press, 1978), 61. 17. Lawrence M. Clopper, Drama, Play, and Game: English Festive Culture in the Medieval and Early Modern Period (Chicago: University of Chicago Press, 2001), 43≠7. See also Max Harris, Sacred Folly: A New History of the Feast of Fools (Ithaca, NY: Cornell University Press, 2011), 42≠5, who finds weight in the plausibility of Clopper's argument, although is not wholly convinced, due to a lack of extant corroborating evidence. It is also important to note that Clopper and Harris correctly provide evidence that counters previous scholarship linking Gerhoh's descriptions to the Tegernsee Ludus de Antichristo. 18. Gerhoh uses such examples in order to stress the urgency of clerical reform, an issue he greatly emphasized in his life. See also Gerhoh of Reichersberg, De quarta vigilia noctis, MGH Ldl 3: 503≠25, and his letter to Pope Hadrian IV in 1156, Ex libro de novitatibus huius temporis, MGH Ldl 3: 288≠304. See also Bernard McGinn, "Gerhoh of Reichersberg," in Visions of the End: Apocalyptic Traditions in the Middle Ages (New York: Columbia University Press, 1979), 103≠7. 19. Carol Symes, "The Tragedy of the Middle Ages," in Beyond the Fifth Century: Interactions with Greek Tragedy from the Fourth Century BCE to the Middle Ages, ed. Ingo Gildenhard and Martin Revermann (Berlin: Walter de Gruyter, 2010), 335≠69. Symes provides an excellent summary of the historiographical approach to early medieval theatre that has so problematically held sway among theatre scholars for decades. 20. See Thomas N. Bisson, The Crisis of the Twelfth Century: Power, Lordship, and the Origins of European Government (Princeton, NJ: Princeton University Press, 2009). For more on the inflamed tensions between the emperor and the papacy during the middle of the twelfth century see Robert L. Benson, "The Clash at BesanÁon (October 1157)," in Law, Rulership, and Rhetoric: Selected Essays of Robert L. Benson, ed. Loren J. Weber, with Giles Constable and Richard H. Rouse (South Bend, IN: University of Notre Dame Press, 2014), 262≠92, at 266≠7. 21. For the function of propagandistic discourse within public sphere figuration during and after the Investiture Controversy see Leidulf Melve, Inventing the Public Sphere: The Public Debate during the Investiture Contest (c. 1030≠1122), 2 vols. (Leiden: Brill, 2007), 1: 17≠22. Propaganda, widely conceived as public discourse, is understood through embodiments of art, ritual, and other public media; see Oliver Thomson, Mass Persuasion in History: An Historical Analysis of the Development of Propaganda Techniques (Edinburgh: Paul Harris, 1977), 67≠75; Bernd Thum, "÷ffentlichkeit und Kommunikation im Mittelalter: Zur Herstellung von ÷ffentlichkeit im Bezugsfeld elementarer Kommunikationsformen im 13. Jahrhundert," in Hˆfische Repr‰sentation: Das Zeremoniell und die Zeichen, ed. Hedda Ragotsky and Horst Wenzl (T¸bingen: Max Niemeyer, 1990), 65≠87, at 78≠82; and Philip M. Taylor, Munitions of the Mind: A History of Propaganda from the Ancient World to the Present Day, 3d ed. (Manchester: Manchester University Press, 2003), 51≠84. 22. Symes, Common Stage, 135; see especially her n. 28 for references to the consistent negotiation of space in both its meanings and usages. 23. For example: Courtney M. Booker, Past Convictions: The Penance of Louis the Pious and the Decline of the Carolingians (Philadelphia: University of Pennsylvania Press, 2009); Susannah Crowder, "Performance Culture in Medieval Metz, c. 200≠1200," unpublished Ph.D. diss. (Graduate Center, City University of New York, 2008); Enders, Rhetoric; Matthew Innes, "Memory, Orality and Literacy in an Early Medieval Society," Past & Present 158.1 (1998): 3≠36; Geoffrey Koziol, The Politics of Memory and Identity in Carolingian Royal Diplomas: The West Frankish Kingdom (840≠987) (Turnhout: Brepols, 2012); Alex J. Novikoff, The Medieval Culture of Disputation: Pedagogy, Practice, and Performance (Philadelphia: University of Pennsylvania Press, 2013); The
+
+
+Appearances of Medieval Rituals: The Play of Construction and Modification, ed. Nils Holger Petersen et al. (Turnhout: Brepols, 2004); and Symes, Common Stage. 24. A review of the bibliography for the chapter "European Theatre in the Middle Ages" in one of the most influential textbooks in the field of theatre studies--Oscar G. Brockett and Franklin J. Hildy, History of the Theatre, 10th ed. (Boston: Pearson, 2008), 644≠5--reveals that little influence from early medieval scholarship has shaped the narrative of medieval theatre history. See also The Medieval European Stage, 500≠1550, ed. William Tydeman (Cambridge: Cambridge University Press, 2001). One of the more promising studies, Donnalee Dox, The Idea of Theater in Latin Christian Thought: Augustine to the Fourteenth Century (Ann Arbor: University of Michigan Press, 2004), provides needed emphasis on discourse surrounding early medieval conceptions of theatrum, but Dox's argument largely operates within the framework that only historical or theological notions of theatre survive through the early medieval period. See also Bevington. 25. See Marvin Carlson, "Introduction: How Do Theatres Mean?" in Places of Performance: The Semiotics of Theatre Architecture (Ithaca, NY: Cornell University Press, 1989), 1≠13. 26. This is at the heart of the scholarship and research toward a new historiographical approach to early medieval theatre pioneered by Symes. In addition to Common Stage, see Symes, "Knowledge Transmission: Media and Memory," in A Cultural History of Theatre in the Middle Ages, ed. Jody Enders (London: Bloomsbury, 2017), 199≠211; "Drama of Conflict and Conquest"; and "Tragedy of the Middle Ages." See also Enders, "Medieval Stages." 27. Such an approach informs Roger Pensom, "Theatrical Space in the Jeu d'Adam," French Studies 47.3 (1993): 257≠75. Pensom provides insight into the Latin terminology employed by the play, but works from the premise that the existence of the Latin didascaliae function in the fashion of modern stage directions. 28. Brook, 37. 29. Carol Symes, "The Medieval Archive and the History of Theatre: Assessing the Written and Unwritten Evidence for Premodern Performance," Theatre Survey 52.1 (2011): 29≠58. 30. For an in-depth paleographical study see Helmut Plechl, "Die Tegernseer Handschrift Clm 19411: Beschreibung und Inhalt," Deutsches Archiv f¸r Erforschung des Mittelalters 18.2 (1962): 418≠ 501. Also Ludus de Antichristo, 2 vols., ed. Gisela Vollmann-Profe (Gˆppingen: K¸mmerle, 1981). 31. See Kyle A. Thomas, "The Ludus de Antichristo: Playing Power in the Medieval Public Sphere," M.A. thesis (Dept. of Theatre, University of Illinois at Urbana≠Champaign, 2012). For more on the pedagogical functions of the documents contained within the codex see Luella M. Wolff, "A Brief History of the Art of Dictamen: Medieval Origins of Business Letter Writing," International Journal of Business Communication 16.2 (1979): 3≠11; James J. Murphy, Rhetoric in the Middle Ages: A History of Rhetorical Theory from Saint Augustine to the Renaissance (Los Angeles: University of California Press, 1974); and Peter Dronke, Medieval Latin and the Rise of European Love-Lyric, vol. 2: Medieval Latin Love-Poetry, 2d ed. (Oxford: Clarendon, 1968). 32. Enders, Rhetoric, 36≠9, and Wolff, 4. 33. See Symes, Common Stage, 138. 34. Fol. 39v, Codex 169, Stiftsbibliothek St. Georgenberg-Fiecht. See also Josef Riedmann, "Ein Neuaufgefundenes Bruchst¸ck des Ludus de Antichristo: Beitr‰ge zur Geschichte der Beziehungen zwischen St. Georgenberg in Tirol und Tegernsee," Zeitschrift f¸r bayerische Landgeschichte 36.1 (1973): 16≠38. 35. Riedmann, 20≠3. 36. Ibid., 36≠7. 37. See ibid., 34≠6, for more on the individual monastic communities of Tegernsee and Fiecht and the development of their relationship despite differing political and spiritual ambitions. 38. See David R. Olson, "What Writing Is," Pragmatics & Cognition 9.2 (2001): 239≠58, for the discourse at work in literacy and its relationship to orality in the development of writing. On the growth of documentation and its increasing growth among more than just courtly or ecclesiastical authorities see Documentary Culture and the Laity in the Early Middle Ages, ed. Warren C. Brown (New York: Cambridge University Press, 2013).
+
+
+39. Lotta H‰kkinen and Nina Kivinen, "Writing Spaces--Performativity in Media Work," in Materiality and Space: Organizations, Artefacts and Practice, ed. FranÁois-Xavier de Vaujany and Nathalie Mitev (New York: Palgrave Macmillan, 2013), 135≠56, at 137≠8, explains that the materiality of objects and their relation to the construction of space is a fundamental element in controlling and contesting social organization through performative means. See also Symes, "Liturgical Texts and Performance Practices," 241≠4. 40. Matthew Innes and Rosamund McKitterick, "The Writing of History," in Carolingian Culture, ed. McKitterick, 193≠220, at 193. See also McKitterick, History and Memory in the Carolingian World (Cambridge: Cambridge University Press, 2004). For the importance and functions of documentation to lay individuals see Documentary Culture and the Laity, ed. Brown. 41. Both the Gesta episcoporum mettensium (781) by Paul the Deacon (ca. 720≠99) and the anonymous Annales mettenses priores (ca. 805) focus on Carolingian genealogy and succession as a means to legitimize the royal line and position its longstanding authority. See McKitterick, History and Memory, 124≠5. 42. Geoffrey Koziol, "A Father, His Son, Memory, and Hope: The Joint Diploma of Lothar and Louis V (Pentecost Monday, 979) and the Limits of Performativity," in Geschichtswissenschaft und "performative turn": Ritual, Inszenierung und Performanz vom Mittelalter bis zur Neuzeit, ed. J¸rgen Martschukat and Steffen Patzold (Cologne: Bˆhlau, 2003), 83≠103, at 92. 43. Lothar II and Louis V, Archives Nationales (Paris) sÈrie K 17, Recueil de copies d'actes et de bulles concernant Saint-Germain-des-PrÈs. 44. Koziol, "Father, His Son," 91≠4, quote at 94. 45. Ibid., 100≠2. 46. Brigitte Miriam Bedos-Rezak, "Seals and Stars: Law, Magic and the Bureaucratic Process (Twelfth-Thirteenth Centuries)," in Seals and Their Context in the Middle Ages, ed. Phillip R. Schofield (Philadelphia: Oxbow, 2015), 89≠100, at 89. On the potential materiality and semiotic implications of wax, including the cultural aspects of wax seals, see Brett D. Hirsch, "Three Wax Images, Two Italian Gentlemen, and One English Queen," in Magical Transformations on the Early Modern English Stage, ed. Lisa Hopkins and Helen Ostovich (Farnham, Surrey, UK, and Burlington, VT: Ashgate, 2014), 155≠68. 47. Bedos-Rezak, "Seals and Stars," 92≠4, cites two of William of Auvergne's thirteenthcentury explorations of the power and efficacy of wax seals in De legibus and De universo. 48. Booker, 162 and 221≠2. 49. Ibid., 254. 50. Ibid., 9≠10. 51. See David Ganz, "The Debate on Predestination," in Charles the Bald: Court and Kingdom, ed. Margaret Gibson and Janet Nelson, BAR International Series 101 (Oxford: BAR, 1981), 353≠73. On Carolingian historiography in the eighth and ninth centuries, specifically as it pertained to the legitimacy of the Carolingian dynasty, see Rosamond McKitterick, "Political Ideology in Carolingian Historiography," in The Uses of the Past in the Early Middle Ages, ed. Yitzhak Hen and Matthew Innes (Cambridge: Cambridge University Press, 2000), 162≠74. 52. See Booker, 129≠82 (chap. 4: "Documenting Duty's Demands"). 53. On the ways in which rituals informed early medieval visual imagery captured through some forms of documentation see MariÎlle Hageman, "Pictor Iconiam Litterarum: Rituals as Visual Elements in Early Medieval Ruler Portraits in World and Image," in Reading Images and Texts: Medieval Images and Texts as Forms of Communication, ed. MariÎlle Hageman and Marco Mostert (Turnhout: Brepols, 2005), 239≠59. 54. Rabanus Maurus, MGH Epistolae (Epp.) 5 (Berlin: Weidmannsche Buchhandlung, 1899), 481≠7: "Item qui dicit, quod quidam homines non ad hoc a Deo creati sunt, ut vitam adipiscerentur aeternam, sed ut habitum tantummodo vite praesentis ornarent, et ad utilitatem nascerentur aliorum, melius loqueretur dicens, quod Deus, qui creator est omnium, non frustra etiam eos condat, quos praevidit vite aeternae participes non futuros, quia etiam in malis hominibus bonum Dei opus est ipsa natura, et laudabilis est in impiorum dampnatione iustitia" (485).
+
+
+55. Rabanus Maurus, MGH Epp. 5: 485, "Non potest autem merito reprehendi qui dicit, quod etiam talium conditione mundus ornetur, et quod hi, qui sibi sua iniquitate nocituri sunt, ad utilitatem nascantur aliorum." 56. Hincmar of Reims, MGH Epp. 8 (Berlin: Weidmannsche Buchhandlung, 1939), 12≠23, "Poena autem eis est praedestinata pro malis illorum operibus, in quibus praesciti sunt tantum, non praedestinati perseveraturi, quia praedestinavit Deus, quod divina aequitas redderet, non quod humana iniquitas admisisset" (19, emphasis added). For more on Hincmar's position on Gottschalk and predestination in relation to his role as archbishop of Reims see D. E. Nineham, "Gottschalk of Orbais: Reactionary or Precursor of the Reformation?" Journal of Ecclesiastical History 40.1 (1989): 1≠18. 57. Abigail Firey, "Continuing Recourse to Roman Law in the Carolingian Period: The Example of MS Wolfenb¸ttel, Herzog August Bibliothek, Cod. Guelf. 1062 Helmst.," in Rechtshandschriften des Deutschen Mittelalters: Produktionsorte und Importwege, ed. Patrizia Carmassi and Gisela Drossbach (Wiesbaden: Harrassowitz, 2015), 211≠43, dating provenance at 213. 58. Ibid., 225. 59. Ibid., 223≠4. 60. On the purposeful and procedural practices of binding texts into codices during Carolingian period see McKitterick, "Political Ideology in Carolingian Historiography," 169≠71. 61. On Carolingian historiography and the creation and control of memory through performed narrative mediums see McKitterick, "The Reading of History at Lorsch and St Amand," in History and Memory, 186≠217. 62. On the precedent and problems with this historiographical approach, along with contrasting examples and possible new historiographical avenues, see Symes, "Knowledge Transmission"; and Symes, "Drama of Conflict and Conquest." 63. Dox, 44≠9. 64. Ibid., 47. 65. Stuart Airlie, "Private Bodies and the Body Politic in the Divorce Case of Lothar II," Past & Present 161.1 (November 1998): 3≠38, at 12≠16. Airlie positions Hincmar's omission of Waldrada in relation to contemporaneous texts, such as the Liber memoralis, where she is included as a member of Lothar's retinue in order to show the political nature of the document and the split opinions on Lothar's annulment, even among Lotharingian clergy. 66. See Hincmar of Rheims, De divortio Lotharii regis et Theutbergae reginae, ed. Letha Bˆhringer, MGH Concilia (Conc.) 4, Suppl. 1 (Hanover: Hahnsche Buchhandlung, 1992), 99≠261. 67. McKitterick specifically admonishes historiographies of the twelfth century that overlook foundational precedents and formations that occurred earlier, especially in the ninth century; History and Memory, 191. 68. Enders, Rhetoric, 71. 69. Ibid., 38. Since Enders's book there have been significant works published on why performance functions or instructions of texts may have been muted. See Symes, "Knowledge Transmission"; Symes, "The Performance and Preservation of Medieval Latin Comedy," European Medieval Drama 7 (2003): 29≠50; and John O. Ward, "Master William of Champeaux and Some Other Early Commentators on the Pseudo-Ciceronian Rhetorica ad Herennium," in Public Declamations: Essays on Medieval Rhetoric, Education, and Letters in Honour of Martin Camargo, ed. Georgiana Donavin and Denise Stodola (Turnhout: Brepols, 2015), 21≠44, at 24≠30. 70. See Symes, "Liturgical Texts and Performance Practices." See also Ward, 26, for more information on how the instruction of a text came not from its contents but in its applications. Furthermore, the Ciceronian emphasis on habitus (virtuosity) through a controlled application of affection (emotion), as laid out in De inventione, may have informed the document such that the orator and/or performer showed their skill through their interpretation of proper emotional readings, thus purposefully leaving the document devoid of such information; see also Rita Copeland, "Affectio in the Tradition of De inventione: Philosophy and Pragmatism," in Public Declamations, ed. Donavin and Stodola, 3≠20.
+71. See Copeland for more on the emotional aspects (affectio) of well-formed rhetorical delivery that was a prominent part of oratorical education throughout the Middle Ages. 72. Enders, Rhetoric, 71. 73. Ibid., 72. 74. See Karl Ferdinand Werner, "Missus--Marchio--Comes: Entre l'administration centrale et l'administration locale de l'Empire carolingien," in Histoire comparÈe de l'administration (IVe≠XVIIIe siËcles): Actes du XIVe colloque historique Franco-Allemand, ed. Werner Paravicini and Karl Ferdinand Werner (Zurich and Munich: Artemis, 1980), 191≠239. See also M. B. Parkes, "Reading, Copying, and Interpreting a Text in the Early Middle Ages," in A History of Reading in the West, ed. Guglielmo Cavallo and Roger Chartier, trans. Lydia G. Cochrane (Amherst: University of Massachusetts Press, 1999), 90≠102, for how documents themselves were also contested spaces whereby glosses, annotations, and other structural developments related to meaning, interpretation, and performance (or oration) were consistently revised and repeated throughout western Europe, especially in the ninth and tenth centuries. 75. Brook, 140. Brook uses the term "assistance" rather than "audience" in order to convey the idea that spectators may or may not involve themselves in a performance, and that the energy that an actor may feel from a good audience assists the performance overall. I have chosen to stick to the term "audience," as Brook's terminology is specifically referential of modern theatre. 76. Symes, "Drama of Conflict," 70≠1; and Symes, "Tragedy of the Middle Ages," 342≠67. Also, Warren C. Brown, "The gesta municipalia and the Public Validation of Documents in Frankish Europe," in Documentary Culture, ed. Brown, 95≠124, describes how early legal and civic transactions under Merovingian and Carolingian Frankish rulers were publicly recorded using documentary formulas derived from the late antique gesta municipalia, records of "municipal deeds" or civic transactions enacted in public spaces and reliant on public ritual and performance for their full authority. 77. Symes, "Drama of Conflict and Conquest," 70 (original emphasis).
+
+1. On early cases of torture under Fujimori see Patricia Caycho, "La memoria de La Rosa," Caretas, www2.caretas.pe/2000/1621/articulos/leonor.phtml; posted 2 June 2000; accessed 5 May 2017. For an in-depth analysis of the fraught elections of 2000 in Peru see Catherine M. Conaghan, Fujimori's Peru: Deception in the Public Sphere (Pittsburgh: University of Pittsburgh Press, 2005) and The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru, ed. Julio CarriÛn (University Park: Pennsylvania State University Press, 2006). 2. For a thorough historical analysis of domestic terrorism in Peru I recommend Carlos Iv·n Degregori's How Difficult It Is to Be God: Shining Path's Politics of War in Peru, 1980≠1999, ed. Steven J. Stern, trans. Nancy Appelbaum (Madison: University of Wisconsin Press, 2012). 3. Conaghan, Fujimori's Peru, 16≠20. 4. On El Chino as a constructed character see Fabiana Videla GuiÒaz˙, "El Chino seg˙n Alberto: Alberto Fujimori como personaje de ficciÛn de su propio discurso polÌtico (1990≠2000)" (M.A. thesis in Communications, Pontificia Universidad CatÛlica del Peru, 2006). 5. To listen to El ritmo del Chino go to Frente Fujimori Libertad, 30 July 2013: "El ritmo del Chino, el baile del Chino," www.youtube.com/watch?v=Lykmok5LzMY; accessed 15 May 2017. 6. Carlos Degregori, La dÈcada de la antipolÌtica: Auge y huida de Alberto Fujimori y Vladimiro Montesinos (Lima: Instituto de Estudios Peruanos, 2012), 69≠73. Conaghan, Fujimori's Peru, 16≠20. 7. Meg Mumford, "Illusion," in The Oxford Encyclopedia of Theatre and Performance, ed. Dennis Kennedy (Oxford: Oxford University Press, 2003), www.oxfordreference.com/view/10. 1093/acref/9780198601746.001.0001/acref-9780198601746-e-1889; accessed 00 MONTH 2017. 8. NiccolÚ Machiavelli, The Prince, trans. Tim Parks (New York: Penguin Books, 2009), 70. 9. Conaghan, Fujimori's Peru, 33. 10. Carlos Eduardo PÈrez Crespo, "Democracia autoritaria: Alberto Fujimori y la opiniÛn p˙blica," Revista Latinoamericana de OpiniÛn P˙blica 1.0 (2010): 125≠44. All translations from the Spanish are mine unless indicated otherwise. 11. For a detailed assessment of violence during the Fujimori period see Carrillo F. Re·tegui, Hatun Willakuy: VersiÛn abreviada del informe final de la ComisiÛn de la Verdad y ReconciliaciÛn, Per˙ (Lima: ComisiÛn de entrega de la ComisiÛn de Verdad y ReconciliaciÛn, 2008). 12. Carlos Iv·n Degregori and Carlos MelÈndez Guerrero, El nacimiento de los otorongos: El Congreso de la Rep˙blica durante los gobiernos de Alberto Fujimori (1990≠2000) (Lima: Instituto de Estudios Peruanos, 2007), 115≠23. 13. For a succinct review of the history of mass media in Peru from 1968 to 2012 see Juan Gargurevich, "Los medios masivos de informaciÛn en el Per˙, 1980≠2012," ConexiÛn 1 (2015): 11≠31.
+Downloaded from https://www.cambridge.org/core. University of Maryland College Park, on 17 Nov 2019 at 05:28:30, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0040557417000503
+
+103
+
+Theatre Survey
+14. Manuel Dammert, Fujimori≠Montesinos: El estado mafioso; el poder imagocr·tico en las sociedades globalizadas (Lima: Ediciones el Virrey, 2001), 349≠56. 15. On the Bozzo≠Fujimori relation see Paul Alonso, "Peruvian Infotainment: From Fujimori's Media Dictatorship to Democracy's Satire," Bulletin of Latin American Research 35.2 (2016): 210≠24, at 213≠14. 16. Paola Miranda, "Bozzo≠Montesinos: Amistad de pantalla," Caretas, www2.caretas. pe/2002/1731/articulos/bozzo.phtml; posted 25 July 2002; accessed 1 December 2015. 17. Archive footage of the incident can be seen online, Archivo Tv Piura, 6 April 2014: "CÈsar Hildebrandt renuncia en vivo--Red Global 1998," www.youtube.com/watch?v=KN36ic1pn5E; accessed 15 May 2017. 18. Alfonso W. Quiroz, Corrupt Circles: A History of Unbound Graft in Peru (Washington DC: Johns Hopkins University Press, 2008), 389. 19. Luis Jochamowitz, Vladimiro: Conversando con el Doctor: Expediente II (Lima: El Comercio, 2002), 24. 20. Degregori, La dÈcada de la antipolÌtica, 302, n. 5. 21. Degregori provides a concise chronology of the co-optation of private media and censorship during this period. Ibid., 323≠5. 22. "Matilde Pinchi Pinchi: Montesinos no hacÌa nada sin consentimiento de Fujimori," La Rep˙blica, www.larepublica.pe/09-05-2014/pinchi-pinchi-confirma-que-fujimori-y-montesinos-coordinaban-titulares-de-diarios-chicha; posted 9 May 2014; accessed 1 December 2015. (Later relocated to http://puntodeencuentro.com.pe/noticias/nacionales/2014/05/matilde-pinchi-pinchi-montesinosno-hacia-nada-sin-consentimiento-de-fujimori/; accessed 21 October 2017.) 23. Hannah Arendt, "Lying in Politics: Reflections on the Pentagon Papers," Crises of the Republic (New York: Harcourt Brace, 1972), 1≠47, at 6. 24. See Juan MartÌn S·nchez, La revoluciÛn peruana: IdeologÌa y pr·ctica polÌtica de un gobierno militar, 1968≠1975 (Sevilla: Universidad de Sevilla, 2002); and The Peruvian Experiment Reconsidered, ed. Cynthia McClintock and Abraham F. Lowenthal (Princeton: Princeton University Press, 2015). 25. Walter Lippmann, Public Opinion (New York: Free Press, 1965), 133. 26. Dammert, 33≠40. 27. "Corruption animated by immediate personal greed involved cliques of high-ranking public officials and shadowy brokers who worked with Vladimiro Montesinos and facilitated the illicit deals and participated in the profits. Top commanders in the Peruvian armed forces were active in the rings. The major scams involving military officers were the massive frauds in the management of the Caja Militar (military pension fund) and in arms purchases, most notably the acquisition of aircraft from Belarus and Russia . . . The arms deals, however, ultimately may prove to be just the tip of the iceberg. The Waisman Commission found evidence linking Montesinos and military figures to narcotrafficking and money laundering of a such magnitude that the commission was led to conclude that Peru became a `narcostate' during the Fujimori era." Catherine M. Conaghan, "The Immoral Economy of Fujimorismo," in Fujimori Legacy, ed. CarriÛn, 102≠25, at 105. 28. I say "theatrical offensive" because for fujimontesinismo theatricality remained instrumental, as opposed to the organizing raison d'Ètat Geertz ascribes to nineteenth-century Balinese polity or that Kwon and Chung describe in modern-day North Korea. See Clifford Geertz, Negara: The Theatre State in Nineteenth-Century Bali (Princeton: Princeton University Press, 1980); Heonik Kwon and Byung-Ho Chung, North Korea: Beyond Charismatic Politics (Lanham, MD: Rowman & Littlefield, 2012). 29. Jonathan Castro, "Venta de lÌnea editorial de Canal 4TV en tiempos de Crousillat≠ Montesinos," La Rep˙blica, http://larepublica.pe/03-05-2011/venta-de-linea-editorial-de-canal4tv-en-tiempos-de-crousillat-montesinos; posted 3 May 2011; accessed 1 December 2015. 30. MarÌa Elena Hidalgo, "Fujimori ordenÛ a Montesinos compra de "prensa chicha" para la reelecciÛn," La Rep˙blica, http://larepublica.pe/05-05-2011/fujimori-ordeno-montesinos-comprade-prensa-chicha-para-la-reeleccion; posted 5 May 2011; accessed 1 December 2015.
+
+
+31. Eduardo Castro Hansen, "Cultura polÌtica y corrupciÛn en la Era del gobierno de Fujimori: Y algunos rasgos del gobierno de Toledo: 1990≠2002" (M.A. thesis in Spanish and Latin American Studies, University of Bergen, 2004), Anexo 7. 32. MÛnica S. Cappellini, "La prensa chicha en Per˙," Chasqui: Revista latinoamericana de comunicaciÛn 88 (2004): 32≠7, at 35. 33. Taylor C. Boas, "Television and Neopopulism in Latin America: Media Effects in Brazil and Peru." Latin American Research Review 40.2 (2005): 27≠49, at 35. 34. Castro. 35. For a detailed accounting of Montesinos's bribes see John McMillan and Pablo Zoido, "How to Subvert Democracy: Montesinos in Peru," Journal of Economic Perspectives 18.4 (2004): 69≠92, at 81. See also Dammert, 353≠4. 36. On the emergence of "trash TV" during the Fujimori regime see Rocio Silva Santisteban, El factor asco: BasurizaciÛn simbÛlica y discursos autoritarios en el Per˙ contempor·neo (Lima: Red para el Desarrollo de las Ciencias Sociales en Per˙, 2008), 141≠53. 37. Bertolt Brecht, The Resistible Rise of Arturo Ui: A Gangster Spectacle, trans. George Tabori (New York: Samuel French, 1972), 58. 38. The idea that in taking command of one's body one can take command of others emerges most forcefully in seventeenth-century European political theory, a period marked by a deep concern with the artifice of behavior as a political instrument, what Maravall identifies as conductismo. See JosÈ Antonio Maravall, La cultura del Barroco: An·lisis de una estructura histÛrica (Barcelona: Ariel, 2012), 111≠13. 39. It is no accident that the adviser here, Givola, stands in for Joseph Goebbels, the Reich's infamous minister of propaganda. 40. Marian Hobson, The Object of Art: The Theory of Illusion in Eighteenth-Century France (Cambridge: Cambridge University Press, 2009), 43. 41. One possible outcome of the institutionalization of bimodal illusions in politics, by no means relegated to authoritarian regimes only, is the kind of cynical reason Slavoj Zizek identifies via the work of Peter Sloterdijk: "It is from this standpoint that we can account for the formula of cynical reason proposed by Sloterdijk: `they know very well what they are doing, but still, they are doing it'. If the illusion were on the side of knowledge, then the cynical position would really be a post-ideological position, simply a position without illusions: `they know what they are doing, and they are doing it'. But if the place of the illusion is in the reality of doing itself, then this formula can be read in quite another way: `they know that, in their activity, they are following an illusion, but still, they are doing it'. For example, they know that their idea of Freedom is masking a particular form of exploitation, but they still continue to follow this idea of Freedom." Slavoj Zizek, The Sublime Object of Ideology (1989; London: Verso, 2008), 30. 42. On the Fujimori regime as a "mafia state" see Dammert, 97≠110. 43. Silva Santisteban, 152. 44. Dammert, 15≠16. Silva Santisteban and Dammert's concepts perceptibly underscore how the television image was central to the functioning of fujimontesinismo, which helps explains why the arrival of a counternarrative from within that same medium proved to be such a threat. 45. Critical literature on illusion can roughly be grouped into three approaches: the arts, psychoanalysis, and politics. The last is perhaps the least developed area and the one to which this study, by drawing from the first two, is attempting to contribute most directly. On aesthetic illusion see Aesthetic Illusion: Theoretical and Historical Approaches, ed. Frederick Burwick and Walter Pape (Berlin and New York: Walter de Gruyter, 1990); Immersion and Distance: Aesthetic Illusion in Literature and Other Media, ed. Walter Bernhart, Andreas Mahler, and Werner Wolf (Amsterdam: Rodopi, 2013); Richard Allen, Projecting Illusion: Film Spectatorship and the Impression of Reality (1997; Cambridge: Cambridge University Press, 2014); E. H. Gombrich, Art and Illusion: A Study in the Psychology of Pictorial Representation, 6th ed., reprinted (London: Phaidon, 2014). On illusion in psychoanalysis see Sigmund Freud, The Future of an Illusion, trans. J. A. Underwood and Shaun Whiteside (1927; London: Penguin Books, 2008); D. W. Winnicott, "Transitional Objects and Transitional
+
+
+Phenomena," in Playing and Reality (New York: Basic Books, 1971), 1≠25; David Gutmann et al., Disillusionment: From the Forbidden Fruit to the Promised Land (London: Karnac, 2005); and John Steiner, "Illusion, Disillusion, and Irony in Psychoanalysis," Psychoanalytic Quarterly 85.2 (2016): 427≠47. On illusion from a political perspective see W. Lance Bennett, News: The Politics of Illusion (1983; Chicago: University of Chicago Press, 2016), as well as Lippmann. 46. Julio F. CarriÛn, "Public Opinion, Market Reforms, and Democracy in Fujimori's Peru," in Fujimori Legacy, ed. CarriÛn, 126≠49, at 148, my emphasis. 47. This is not dissimilar to the way discipline, as conceptualized by Foucault, contains both negative and positive possibilities: "Do not concentrate the study of the punitive mechanisms on their `repressive' effects alone, on their `punishment' aspects alone, but situate them in a whole series of their possible positive effects, even if these seem marginal at first sight." Michel Foucault, "The Body of the Condemned," The Foucault Reader, ed. Paul Rabinow (New York: Pantheon Books, 1984), 170≠8, at 170. 48. Roland Barthes, "In the Ring," in Mythologies, trans. Richard Howard and Annette Lavers (New York: Hill & Wang, 2012), 3≠14, at 4. 49. Hans-Georg Gadamer, Truth and Method, rev. trans. J. Weinsheimer and D. G. Marshall (1960; New York: Continuum, 1991), 106. 50. Gadamer, 104. His full comments are useful: "This suggests a general characteristic of the nature of play that is reflected in playing: all playing is a being-played. The attraction of a game, the fascination it exerts, consists precisely in the fact that the game masters the players. Even in the case of games in which one tries to perform tasks that one has set oneself, there is a risk that they will not `work,' `succeed,' or `succeed again,' which is the attraction of the game. Whoever `tries' is in fact the one who is tried. The real subject of the game (this is shown in precisely those experiences in which there is only a single player) is not the player but instead the game itself. What holds the player in its spell, draws him into play, and keeps him there is the game itself." Gadamer, 106. 51. Katja Mellmann, "On the Emergence of Aesthetic Illusion: An Evolutionary Perspective," in Immersion and Distance: Aesthetic Illusion in Literature and Other Media, ed. Werner Wolf, Walter Bernhart, and Andreas Mahler (Amsterdam: Rodopi, 2013), 67≠88, at 82. 52. Hugo Neira, El mal peruano: 1990≠2001 (Lima: Sidea, 2001), 22≠3. 53. Jochamowitz, 38. 54. Neira, 26. 55. Crespo. See also Degregori, La dÈcada de la antipolÌtica, 306. 56. For details behind the leaking of the video see Maxwell A. Cameron, "Endogenous Regime Breakdown: The Vladivideo and the Fall of Peru's Fujimori," in Fujimori Legacy, ed. CarriÛn, 268≠93, at 275≠6. Ironically the video itself was sold from within the government for $100,000 USD to Fernando Olivera, an opposition politician and a colleague of Iberico. The economy of payoffs that sustained the Fujimori administration also made a profit from its collapse. 57. See Utero de Marita, 14 September 2010: "Video Kouri≠Montesinos, la verdadera historia," www.youtube.com/watch?v=b4ucGVHdP6w; accessed 15 May 2017. 58. The first vladivideo is available online, Jorge Moreno Matos, 19 January 2006: "Vladivideo Kouri≠Montesinos," www.youtube.com/watch?v=HRfKA0XDYJc; accessed 15 May 2017. 59. Cameron, 277. 60. In total Montesinos would be serving 281 years in prison, but criminal sentences don't accumulate under Peruvian law. The same is the case with Fujimori. 61. Neira, 34. 62. Retort, Afflicted Powers: Capital and Spectacle in a New Age of Art (London: Verso, 2005), 27≠8. 63. See Hannah Arendt, Eichmann in Jerusalem: A Report on the Banality of Evil (1963; New York: Penguin Books, 2006). 64. That is why Silva Santisteban talks about the vladivideos as part of a broader process involving la basurizaciÛn de la cultura ("the trashing of culture") in Peru. On trash culture and television see also Avital Ronell, The ‹berReader: Selected Works of Avital Ronell, ed. Diane Davis (Urbana: University of Illinois Press, 2008), 70.
+
+
+
+The Politics of Illusion
+65. Cameron, 284. 66. Conaghan, "Immoral Economy of Fujimorismo," 105. 67. Neira, 43. 68. See Dammert, 97≠110. 69. Silvio Waisbord, Watchdog Journalism in South America: News, Accountability and Democracy (New York: Columbia University Press, 2000), 47≠51. Conaghan, Fujimori's Peru, 70≠1. 70. Silva Santisteban, 119. 71. Neira, 32. 72. David Corn, "Secret Video: Romney Tells Millionaire Donors What He Really Thinks of Obama Voters," Mother Jones, www.motherjones.com/politics/2012/09/secret-video-romney-private-fundraiser; posted 17 September 2012; accessed 28 August 2017. 73. Rachel Weiner, "Scott Prouty Reveals Himself as Man Who Shot `47 Percent' Video," Washington Post, www.washingtonpost.com/news/post-politics/wp/2013/03/13/scott-proutyreveals-himself-as-man-who-shot-47-percent-video; posted 13 March 2013; accessed 28 August 2017. 74. Harun Farocki, "Phantom Images," Public 29 (2004): 12≠24, at 17. 75. Ronell, 83. 76. See for example Jaime Bedoya, "La transcripciÛn ignorada," Caretas, www2.caretas. pe/2001/1658/columnas/mal.phtml; posted 22 February 2001; accessed 5 May 2017. 77. Vladimiro Montesinos Torres and Antonio Zapata Velasco, En la sala de la corrupciÛn: Videos y audios de Vladimiro Montesinos (1998≠2000) (Lima: Fondo Editorial del Congreso del Per˙, 2004). 78. Gisela C·nepa K[och], "La corrupciÛn como espect·culo: El show de los vladi-videos," Revista chilena de antropologÌa visual 7 (June 2006): 1≠14. 79. Theodor W. Adorno, Aesthetic Theory, ed. Gretel Adorno and Rolf Tiedemann, trans. and ed. Robert Hullot-Kentor (1970; London: Athlone, 1997), 123. 80. Jochamowitz, 14. 81. Richard Schechner, The Future of Ritual: Writings on Culture and Performance (London and New York: Routledge, 1993), 36. 82. On the fact that Montesinos took pleasure from his guests' ignorance see Juan Carlos Ubilluz, Nuevos s˙bditos: Cinismo y perversiÛn en la sociedad contempor·nea (Lima: Instituto de Estudios Peruanos, 2006), 72. 83. See Silva Santisteban, 140; Cameron, 279. 84. Michel Foucault, Discipline and Punish: The Birth of the Prison, trans. Alan Sheridan (1975; New York: Vintage Books, 1995), 193. 85. On the combination of agÙn with mimicry see Roger Caillois, Man, Play and Games, trans. Meyer Barash (1958; Urbana: University of Illinois Press, 2001), 22≠3, 74.
+</listBibl>
       </body>
+
   </text>
 </TEI>

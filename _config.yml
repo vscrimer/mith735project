@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Writing in the Disciplines:
-  Trends in Theatre and Performance Studies Scholarship"
+title: "An Ex-Citing Project: Citation Analysis of Theatre and Performance Studies Journals"
 email: vscrimer@umd.node_modules
 description: >- # this means to ignore newlines until "baseurl:"
-  We are using digital text analysis to track trends in Performance Studies
-  scholarhip over the last ten years.
+  We are using citation extraction and parsing to identify trends in Theatre and Performance Studies
 baseurl: "/mith735project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
