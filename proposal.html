@@ -60,27 +60,18 @@ specific article or set of articles but rather to spot potential patterns.
 <p>
 The primary researchers on this project are two doctoral candidates in
 Performance Studies, Victoria Scrimer and Kelley Holley. Victoria and Kelley will
-be the primary parties responsible for selecting and collecting data, organizing and
+be the primary parties responsible for selecting and collecting source material, organizing and
 cleaning up data, analyzing and presenting data. We also recognize, however,
 the need to consult with and include at least one other team member who can assist
-with coding in the text analysis process.
+with coding in the text analysis process, so we have also engaged the assistance of Ed Summers,
+ developer and digital archivist at MITH. Ed has helped us identify, install, and customize citation parsing tools.
+
+
 </p>
 
 <li>
+
 <b>
-Literature
-</b>
-</li>
-<p>
-While there are a number of guides for research methodologies in the
-discipline including Baz Kershaw’s Research Methodologies in Theatre and
-Performance Studies and Thomas Postlewait and Bruce McConachie’s Interpreting the Theatrical Past, we are not aware of any comprehensive guide to writing in the discipline. Most guides to writing for performance or theatre focus on techniques for writing play scripts or program notes rather than performance analyses. An in-depth literature review of existing resources for theatre and performance scholars provides a necessary context for this project. In addition to subject specific literature, scholarship on text analysis and, specifically, citation analysis will provide
-direction. We have built in time early in the project to review and write up a
-summary of relevant literature in the timeline below.
-</p>
-
-<li>
-  <b>
   Research Question(s)
   </b>
   </li>
@@ -100,37 +91,75 @@ Subject of Study
 </b>
 </li>
 <p>
-For our subject of study, we have identified four of the top journals in the field
-of Performance Studies each of which represents a different professional organization
-and approach to the discipline-Theatre Research, Theatre Journal, Performance Research
-and The Drama Review (TDR). For the purposes of drawing comparisons between refereed
-and non-refereed publications, three of these journals are peer-reviewed and one
-(TDR) is not.
-</p>
+  For our subject of study, we have identified four of the top journals in the field of Performance
+  Studies each of which represents a different professional organization and approach to the discipline.
+  To go about choosing these journals we first organized several well-known journals in a spreadsheet
+  where we could identify and compare their publisher, professional associations, and primary subject
+   matter.  This spreadsheet along with our notes can be
+   viewed
+   <a href=https://docs.google.com/spreadsheets/d/13HQO4bTpzuERDlkNlMoG5Gbk83chUULCletEXueFLTI/edit?usp=sharing">
+     here</a>
+     <p>We then selected Theatre Survey, Theatre Journal, TDR and PAJ  as our initial subjects of study because all four journals claim to discuss both theatre and performance, the former are both peer-reviewed and from associations, the latter are both not peer reviewed and have had individual long standing editors. Based on each of their impact rating (recorded in the spreadsheet), they're also significant journals in the field. With these four we are able to make fair comparisons in their respective categories and against the other.</p>
+     <p>
+     We have chosen to focus only on featured articles in each of the four publications,
+     excluding book reviews, editorial notes, or issue introductions in order to mitigate
+     potential publication-based biases and text that might skew the data.
+     </p>
+
 <p>
 Because we are approaching the end of the second decade of the 21st century it seemed
 timely to frame this project as a ten-year retrospective on Performance Studies
 scholarship. This is both an appealing framework for possible publications as well
 as a statistically significant span of time from which to draw conclusions.
 </p>
-<p>
-We have chosen to focus only on featured articles in each of the four publications,
-excluding book reviews, editorial notes, or issue introductions in order to mitigate
-potential publication-based biases and text that might skew the data.
-</p>
+
 <li>
 <b>
 Methodology
 </b>
 </li>
 <p>
-Distant reading, or the collection and analysis of large quantities of text, has traditionally been used to analyze literary texts, but could easily be used to model the genre conventions of academic writing.
+  Distant reading, or the collection and analysis of large quantities of text, has traditionally been used to analyze literary texts, but could easily be used to model the genre conventions of academic writing.
 
-In order to engage in distant reading of Performance Studies scholarship, we will need to perform a text analysis of a large corpus of scholarly articles. For the purposes of this project we are specifically interested in performing a type of citation analysis.
+  In order to engage in distant reading of Performance Studies scholarship, we will need to perform a text analysis of a large corpus of scholarly articles. For the purposes of this project we are specifically interested in citation extraction and parsing along with the bibliometric analysis of those results.
 
-In order to perform a text analysis we will need to collect and collate machine readable text of the research subject from each issue of each journal dating back ten years.
+  In order to perform a text analysis we will need to collect and collate machine readable text of the research subject from each issue of each journal dating back ten years.
 
-Based on the results of the text analysis we will design a comparative data visualization to help share and explain our findings.
+  Based on the results of the text analysis we will design a comparative data visualization to help share and explain our findings.
+
+<p>  It was much more difficult than expected to identify tools for extracting
+  citations from a large corpus of variably formatted text. After consultation
+  with experts at MITH and conversations with other scholars involved in library science and
+  digital archives, we eventually landed on AnyStyle, a parser designed to find and parse academic
+  references.
+
+  The source code for AnyStyle is hosted on GitHub where you can access
+  the <a href="http://github.com/inukshuk/anystyle.git">latest code</a>. </p>
+
+  <p>There was a web interface for AnyStyle but the designers have the page down for
+    indefinite maintenance. Conveniently, you can also use AnyStyle in Ruby
+    (a general-purpose scripting language). After installing the anystyle gem,
+     we were able to run AnyStyle.parse and AnyStyle.find through the command line.
+     AnyStyle.parse will parse a single line of text into author (family and given name),
+     date, title, edition, location, publisher, language, scripts, type. AnyStyle.find will find
+     citations in a PDF and parse those as well. This data will appear in the terminal window but
+     can easily be moved to a JSON file stored in any desired location.
+     </p>
+
+<p>  We first tried combining all articles from a single issue of a journal into a large PDF then
+  running the AnyStyle.find command. We found that AnyStyle had difficulty finding and extracting
+  citations within a very large corpus so we attempted to run the command on one PDF at a time.
+  This yielded much more accurate results, but it was prohibitively time consuming considering we
+   wanted to parse hundreds of citations and export that data into several large CSV files.
+
+  Ed Summers at MITH, therefore, helped to create a custom parser using the AnyStyle Ruby library.
+   The code for this is also hosted on
+  <a href="https://github.com/edsu/citation-playground">GitHub </a>.
+  This allowed us to perform citation extraction and parsing on a corpus of articles by dropping
+  the PDFs in a directory and then running a program to pull the citation data out of all articles
+  in the directory rather than performing the function on one PDF at a time. Ed also designed a
+  conversion function to convert all JSON files in the directory to CSV.  
+
 </p>
 <li>
 <b>
